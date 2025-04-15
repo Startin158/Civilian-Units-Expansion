@@ -36,6 +36,7 @@
 {
 		"name": "Animal lover Tourist",
 		"unitType": "Civil",
+  "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
   "uniques": ["Consumes [1] [Cattle]","Consumes [1] [Deer]","Consumes [1] [Sheep]","Gain [11] [Gold] <every [3] turns>"]
@@ -45,6 +46,7 @@
 {
 		"name": "Natural lover Tourist",
 		"unitType": "Civil",
+  "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
   "uniques": ["Consumes [1] [Bananas]","Consumes [1] [Wheat]","Gain [5] [Gold] <every [2] turns>"]
@@ -54,6 +56,7 @@
 {
 		"name": "Adevnture lover Tourist",
 		"unitType": "Civil",
+  "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
   "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Gain [2] [Gold] <every [1] turns>"]
