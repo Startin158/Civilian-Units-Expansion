@@ -7,7 +7,7 @@
 		"greatPersonPoints": {"Great Engineer": 4},
 		"isWonder": true,
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Skilled Worker] units appear"],
-		"requiredTech": "Masonry",
-		"quote": "Les civils sont les personnes les plus importantes pour une civilisation, voilà une station à leurs honneur"
+		"requiredTech": "Future Tech",
+		"quote": "Les civils sont les personnes les plus importantes pour une civilisation, voilà une statue à leurs honneur"
 	}
 ]
