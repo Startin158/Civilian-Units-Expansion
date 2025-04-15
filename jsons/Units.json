@@ -6,7 +6,6 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"attackSound": "phasers",
-  "uniques": ["Turn this tile into a [Tundra] tile <in [Ice] tiles> <by consuming this unit>"]
+  "uniques": ["Turn this tile into a [Tundra] tile <in [Ice] tiles> <by consuming this unit> <in [Friendly Land>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Grassland] tile <in [Tundra]  tiles> <in [Friendly Land] tiles>","Turn this tile into a [Grassland] tile <in [Plains]  tiles> <in [Friendly Land] tiles>"]
 	}
 ]
