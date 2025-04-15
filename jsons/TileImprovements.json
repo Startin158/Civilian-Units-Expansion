@@ -10,65 +10,153 @@
 //espaceeeeeee
 	{
 		"name": "Furs Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
+		"terrainsCanBeBuiltOn": ["Furs"],
 		"food": 2,
   "production": 2,
+  "gold": 1,
 		"turnsToBuild": 7,
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Furs]"],
 	},
 //espaceeeeeeee
 	{
 		"name": "Cotton Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"]
+		"terrainsCanBeBuiltOn": ["Cotton"]
   "gold": 3,
   "culture": 1,
+  "food": 1,
 		"turnsToBuild": 7,
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Cotton]"],
  },
 //espaceeeeee
 	{
 		"name": "Dyes Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
+		"terrainsCanBeBuiltOn": ["Dyes"],
 		"culture": 2,
-  "gold": 2,
+  "gold": 3,
 		"turnsToBuild": 7,
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Dyes]"],
 	},
 //espaceeeee
 	{
 		"name": "Gems Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"production": 1,
-  "gold": 3,
+		"terrainsCanBeBuiltOn": ["Gems"],
+		"production": 2,
+  "gold": 4,
 		"turnsToBuild": 7,
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gems]"],
 	},
 //espaceeeee
 	{
-		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
-  "gold": 2,
+		"name": "Gold Entreprise",
+		"terrainsCanBeBuiltOn": ["Gold Ore"],
+  "gold": 5,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gold Ore]"],
 	},
 /espaceeeeee
 	{
-		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
-  "gold": 2,
+		"name": "Silver Entreprise",
+		"terrainsCanBeBuiltOn": ["Silver"],
+		"culture": 2,
+  "gold": 3,
 		"turnsToBuild": 7,
-	
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silver]"],
 	},
 	{
 /espaceeeeee
-		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
+		"name": "Incense Entreprise",
+		"terrainsCanBeBuiltOn": ["Incense"],
+		"faith": 3,
+  "culture": 1,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]"],
+	},
+{
+/espaceeeeee
+		"name": "Ivory Entreprise",
+		"terrainsCanBeBuiltOn": ["Ivory"],
+		"food": 3,
+  "culture": 1,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Ivory]"],
+	},
+{
+/espaceeeeee
+		"name": "Silk Entreprise",
+		"terrainsCanBeBuiltOn": ["Silk"],
+		"faith": 1,
+  "culture": 3,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silk]"],
+	},
+{
+/espaceeeeee
+		"name": "Sugar Entreprise",
+		"terrainsCanBeBuiltOn": ["Sugar"],
+  "food": 4,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Sugar]"],
+	},
+{
+/espaceeeeee
+		"name": "Spices Entreprise",
+		"terrainsCanBeBuiltOn": ["Spices"],
+		"food": 3,
+  "culture": 1,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Spices]"],
+	},
+{
+/espaceeeeee
+		"name": "Marble Entreprise",
+		"terrainsCanBeBuiltOn": ["Marble"],
+		"production": 2,
+  "culture": 2,
+  "gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Marble]"],
+	},
+{
+/espaceeeeee
+		"name": "Citrus Entreprise",
+		"terrainsCanBeBuiltOn": ["Citrus"],
+		"food": 2,
+  "culture": 1,
   "gold": 2,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Citrus]"],
+	},
+{
+/espaceeeeee
+		"name": "Copper Entreprise",
+		"terrainsCanBeBuiltOn": ["Copper"],
+		"production": 3,
+  "gold": 2,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Copper]"],
+	},
+{
+/espaceeeeee
+		"name": "Salt Entreprise",
+		"terrainsCanBeBuiltOn": ["Salt"],
+		"food": 2,
+  "gold": 3,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Salt]"],
+	},
+{
+/espaceeeeee
+		"name": "Truffles Entreprise",
+		"terrainsCanBeBuiltOn": ["Truffles"],
+		"food": 1,
+  "culture": 2,
+  "gold": 2,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Truffles]"],
 	}
 ]
