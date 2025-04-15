@@ -34,7 +34,7 @@
 		"unitType": "Civil",
 		"movement": 1,
 		"cost": 60,
-  "uniques": ["Consumes [1] [Cattle]","Consumes [1] [Deer]","Consumes [1] [Sheep]","Gain [2] [Gold] <every [1] turns>"]
+  "uniques": ["Consumes [1] [Cattle]","Consumes [1] [Deer]","Consumes [1] [Sheep]","Gain [11] [Gold] <every [3] turns>"]
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
@@ -50,7 +50,7 @@
 		"unitType": "Civil",
 		"movement": 1,
 		"cost": 60,
-  "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Consumes [1] [Horses]","Gain [10] [Gold] <every [3] turns>"]
+  "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Gain [2] [Gold] <every [1] turns>"]
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
@@ -58,7 +58,7 @@
 		"unitType": "Civil",
 		"movement": 3,
 		"cost": 60,
-  "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Consumes [1] [Horses]","Gain [10] [Gold] <every [3] turns>"]
+  "uniques": ["Consumes [1] [Horses]",""]
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	}
 ]
