@@ -24,10 +24,9 @@
 {
 		"name": "Entrepreneur",
 		"unitType": "Civilian",
-  "requiredTech": "Guilds",
+  "requiredTech": "Civil Service",
 		"movement": 2,
 		"cost": 200,
-		"requiredTech": "",
 		"requiredResource": "Coal",
   "uniques": ["Can build [Entreprise] improvements on tiles"]
   "quote": "Une personne ordinaire, qui souhaite créer une entreprise pour subvenir au besoin de sa famille et de sa patrie. Peut être que dans 100ans on se souviendra d'elle et de son entreprise !"
