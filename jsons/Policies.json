@@ -1,13 +1,13 @@
    [
     {
-        "name": "Patronage",
+        "name": "Civilan",
         "era": "Medieval era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 10,
-            "Domination": 5,
-            "Scientific": 5
+            "Neutral": 7,
+            "Cultural": 4,
+            "Diplomatic": 4,
+            "Domination": 1,
+            "Scientific": 4
         },
         "uniques": [
             "[-25]% City-State Influence degradation",
