@@ -3,7 +3,7 @@
 		"name": "Terraformer",
 		"unitType": "Civil",
 		"movement": 2,
-		"cost": 500,
+		"cost": 300,
 		"requiredTech": "Future Tech",
 		"requiredResource": "Uranium",
   "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <by consuming this unit> <in [Friendly Land>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles>"]
@@ -14,10 +14,10 @@
 		"name": "Seedler",
 		"unitType": "Civil",
 		"movement": 2,
-		"cost": 500,
+		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
-  "uniques": []
+  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles>,""Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <by consuming this unit> <costs [25] gold>"]
 	}
 ]
  
