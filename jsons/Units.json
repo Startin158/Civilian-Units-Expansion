@@ -26,7 +26,7 @@
 		"cost": 200,
 		"requiredTech": "",
 		"requiredResource": "Coal",
-  "uniques": [""]
+  "uniques": ["Can build [Entreprise] improvements on tiles"]
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	}
 ]
