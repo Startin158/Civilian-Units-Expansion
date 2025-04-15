@@ -51,7 +51,7 @@
 		"movement": 1,
 		"cost": 60,
   "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Consumes [1] [Horses]","Gain [10] [Gold] <every [3] turns>"]
-// créé une entreprise qui double les ressources de luxe contre sa mort !
+// Un gars, possé là, qui vie pour sa passion et consomme des trucs contre des trucs qui servent à rien, donne de l'or
 	}
 ]
  
