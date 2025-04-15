@@ -5,6 +5,7 @@
 		"terrainsCanBeFoundOn": ["Forest","Tundra"],
 		"gold": 2,
 		"improvement": "Camp",
+  "improvement": "Furs Entreprise",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Generated with weight [40] <in [Tundra] Regions>",
 					"Generated with weight [10] <in [Forest] Regions>",
