@@ -12,7 +12,7 @@
 >neige, savane>désert, désert>savane
 {
 		"name": "Seedler",
-		"unitType": "Civil",
+		"unitType": "Fertilizer",
 		"movement": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
