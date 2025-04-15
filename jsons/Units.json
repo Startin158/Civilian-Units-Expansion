@@ -72,6 +72,14 @@
   "uniques": ["Consumes [1] [Horses]","All adjacent units heal [20] HP when healing"]
   "quote": "Dans une guerre, le camp avec le plus de blessé est celui qui a le plus de chance de perdre. Donc ce bonhomme est un renfort essentiel sur le terrain"
 // Un renfort essentiel sur le terrain 
+	},
+{
+		"name": "Worker",
+		"unitType": "Civilian",
+  "requiredTech": "Industrialization",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 85
 	}
 ]
  
