@@ -13,21 +13,21 @@
 		"name": "Seedler",
 		"unitType": "Civil",
 		"movement": 2,
-		"cost": 200,
+		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
   "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>,""Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>"]
 // plante des forêts et des jungles contre 50 or 
 	},
 {
-		"name": "Entreprener",
+		"name": "Entrepreneur",
 		"unitType": "Civil",
 		"movement": 2,
 		"cost": 200,
 		"requiredTech": "",
 		"requiredResource": "Coal",
-  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>,""Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>"]
-// créé une entreprise qui double les ressources de luxe contre 50 or
+  "uniques": [""]
+// créé une entreprise qui double les ressources de luxe contre sa mort !
 	}
 ]
  
