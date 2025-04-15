@@ -62,6 +62,7 @@
 {
 		"name": "Médecin",
 		"unitType": "Civil",
+  "requiredTech": "Biology",
 		"movement": 3,
 		"cost": 60,
   "uniques": ["Consumes [1] [Horses]","All adjacent units heal [20] HP when healing"]
