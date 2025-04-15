@@ -3,40 +3,45 @@
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
 		"food": 1,
-  "gold": 2,
+  "gold": 3,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
 //espaceeeeeee
 	{
-		"name": "Wine Entreprise",
+		"name": "Furs Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
-  "gold": 2,
+		"food": 2,
+  "production": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Furs]"],
 	},
 //espaceeeeeeee
 	{
-		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
-  "gold": 2,
+		"name": "Cotton Entreprise",
+		"terrainsCanBeBuiltOn": ["Wine"]
+  "gold": 3,
+  "culture": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Cotton]"],
  },
 //espaceeeeee
 	{
-		"name": "Wine Entreprise",
+		"name": "Dyes Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
+		"culture": 2,
   "gold": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Dyes]"],
+	},
+//espaceeeee
+	{
+		"name": "Gems Entreprise",
+		"terrainsCanBeBuiltOn": ["Wine"],
+		"production": 1,
+  "gold": 3,
+		"turnsToBuild": 7,
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gems]"],
 	},
 //espaceeeee
 	{
@@ -45,17 +50,6 @@
 		"food": 1,
   "gold": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
-	},
-//espaceeeee
-	{
-		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
-		"food": 1,
-  "gold": 2,
-		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
 /espaceeeeee
@@ -65,18 +59,16 @@
 		"food": 1,
   "gold": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
+	
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
 	{
 /espaceeeeee
-	{
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
 		"food": 1,
   "gold": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	}
 ]
