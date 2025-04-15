@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 300,
-		"requiredTech": "Future Tech",
+		"requiredTech": "Particle Physics",
 		"requiredResource": "Uranium",
   "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly]> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly] tiles> <costs [100] gold>"],
   "quote": " Un travailleur capable de terraformer son environnement ! Mais contre un peu d'or..."
