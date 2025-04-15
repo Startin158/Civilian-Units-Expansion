@@ -6,7 +6,7 @@
 		"cost": 300,
 		"requiredTech": "Future Tech",
 		"requiredResource": "Uranium",
-  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <by consuming this unit> <in [Friendly Land> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"]
+  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly Land> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"]
 	},
 // plaines>savane / savane>plaine / plaines>toundra / toundra>plaine / neige>toundra / troudra 
 >neige / savane>désert / désert>savane
