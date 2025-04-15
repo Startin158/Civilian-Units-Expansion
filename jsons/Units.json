@@ -78,7 +78,7 @@
 		"unitType": "Civilian",
   "requiredTech": "Industrialization",
 		"movement": 3,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles","Can build [All Road] improvements at a [25]% rate","Can build [Improvement] improvements at a [50]% rate","Automation is a primary action"],
 		"cost": 85
 	}
 ]
