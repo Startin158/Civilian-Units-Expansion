@@ -117,7 +117,7 @@
 		"terrainsCanBeFoundOn": ["Forest","Jungle"],
 		"gold": 2,
 		"improvement": "Plantation",
-  "improvement": Silk Entreprise",
+  "improvement": "Silk Entreprise",
 		"uniques": ["Generated with weight [5] <in [Jungle] Regions>",
 					"Generated with weight [30] <in [Forest] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
