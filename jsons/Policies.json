@@ -40,7 +40,7 @@
                 "column": 3
             },
             {
-                "name": " Civilian",
+                "name": "Faithful Civilian",
                 "uniques": [
                     "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
@@ -50,7 +50,7 @@
                 "column": 2
             },
             {
-                "name": "Educated Elite",
+                "name": "Productive Civilian",
                 "requires": ["Merchant Civilian"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People"
