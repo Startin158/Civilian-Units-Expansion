@@ -17,7 +17,7 @@
 		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
-  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Hill] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Plains] tiles> <by consuming this unit>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <by consuming this unit>","Can build [Jungle] improvements on tiles <in [Plains] tiles> <by consuming this unit>"]
+  "uniques": ["Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into [Forest] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Hill] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Plains] tiles> <by consuming this unit>"]
   "quote": " Un expert paysagiste capable de replanter des forêts et des jungles !."
 // plante des forêts et des jungles contre 50 or 
 	},
