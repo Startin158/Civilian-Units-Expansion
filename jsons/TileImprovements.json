@@ -5,7 +5,7 @@
 		"food": 1,
   "gold": 3,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeeee
 	{
@@ -15,7 +15,7 @@
   "production": 2,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeeeee
 	{
@@ -25,7 +25,7 @@
   "culture": 1,
   "food": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
  },
 //espaceeeeee
 	{
@@ -34,7 +34,7 @@
 		"culture": 2,
   "gold": 3,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeee
 	{
@@ -43,7 +43,7 @@
 		"production": 2,
   "gold": 4,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeee
 	{
@@ -51,7 +51,7 @@
 		"terrainsCanBeBuiltOn": ["Gold Ore"],
   "gold": 5,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 /espaceeeeee
 	{
@@ -60,7 +60,7 @@
 		"culture": 2,
   "gold": 3,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 	{
 /espaceeeeee
@@ -70,7 +70,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -80,7 +80,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -90,7 +90,7 @@
   "culture": 3,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -99,7 +99,7 @@
   "food": 4,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -109,7 +109,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -119,7 +119,7 @@
   "culture": 2,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -129,7 +129,7 @@
   "culture": 1,
   "gold": 2,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -138,7 +138,7 @@
 		"production": 3,
   "gold": 2,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -147,7 +147,7 @@
 		"food": 2,
   "gold": 3,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 /espaceeeeee
@@ -157,6 +157,6 @@
   "culture": 2,
   "gold": 2,
 		"turnsToBuild": 7,
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	}
 ]
