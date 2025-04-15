@@ -3,9 +3,9 @@
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
 		"food": 1,
+  "gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "F"
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]"],
 	}
 ]
