@@ -3,13 +3,13 @@
 		"name": "Terraformer",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Particle Physics",
 		"requiredResource": "Uranium",
-  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <costs [100] gold>"],
-  "quote": " Un travailleur capable de terraformer son environnement ! Mais contre un peu d'or..."
+  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Plains] tile <in [Desert] tiles> <by consuming this unit>","Turn this tile into a [Desert] tile <in [Plains] tiles> <by consuming this unit>"],
+  "quote": " Un travailleur capable de terraformer son environnement !"
 	},
-// change le type de terrain contre 100 or Turn this tile into a [Coast] tile <in [Friendly Land] tiles> <in [Friendly Land] tiles>
+// change le type de terrain contre 100 or Turn this tile into a [Grassland] tile <in [Land] tiles> <by consuming this unit>
 {
 		"name": "Seedler.",
 		"unitType": "Civilian",
@@ -17,8 +17,8 @@
 		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
-  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Plains] tiles> <costs [50] gold>"]
-  "quote": " Un expert paysagiste capable de replanter des forêts et des jungles ! Enfin si vous avez de quoi le payer."
+  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Hill] tiles> <by consuming this unit>","Can build [Forest] improvements on tiles <in [Plains] tiles> <by consuming this unit>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <by consuming this unit>","Can build [Jungle] improvements on tiles <in [Plains] tiles> <by consuming this unit>"]
+  "quote": " Un expert paysagiste capable de replanter des forêts et des jungles !."
 // plante des forêts et des jungles contre 50 or 
 	},
 {
