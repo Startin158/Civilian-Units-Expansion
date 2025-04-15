@@ -52,6 +52,14 @@
 		"cost": 60,
   "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Consumes [1] [Horses]","Gain [10] [Gold] <every [3] turns>"]
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
+	},
+{
+		"name": "Médecin",
+		"unitType": "Civil",
+		"movement": 3,
+		"cost": 60,
+  "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Consumes [1] [Horses]","Gain [10] [Gold] <every [3] turns>"]
+// Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	}
 ]
  
