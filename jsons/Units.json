@@ -2,12 +2,10 @@
 	{
 		"name": "Terraformer",
 		"unitType": "Civil",
-		"replaces": "Machine Gun",
 		"movement": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers",
   "uniques": ["Turn this tile into a [Tundra] tile <in [Ice] tiles> <by consuming this unit>"]
 	}
