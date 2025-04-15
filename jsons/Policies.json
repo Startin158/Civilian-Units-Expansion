@@ -15,7 +15,7 @@
         ],
         "policies": [
             {
-                "name": "Philantropy",
+                "name": "Scientifique Civil",
                 "uniques": [
                     "Gifts of Gold to City-States generate [25]% more Influence"
                 ],
@@ -23,7 +23,7 @@
                 "column": 2
             },
             {
-                "name": "Aesthetics",
+                "name": "Cultural Civil",
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]"
                 ],
@@ -35,9 +35,9 @@
                 "uniques": [
                     "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
                 ],
-                "requires": ["Philantropy"],
+                "requires": ["Scientifiques Civil","Cultural Civil"],
                 "row": 2,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Cultural Diplomacy",
@@ -51,7 +51,7 @@
             },
             {
                 "name": "Educated Elite",
-                "requires": ["Scholasticism", "Aesthetics"],
+                "requires": ["Scholasticism"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People"
                 ],
@@ -59,7 +59,7 @@
                 "column": 4
             },
             {
-                "name": "Patronage Complete",
+                "name": "Civilan Complete",
                 "uniques": [
                     "Influence of all other civilizations with all city-states degrades [33]% faster",
                     "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
