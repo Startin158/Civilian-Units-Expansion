@@ -15,7 +15,7 @@
         ],
         "policies": [
             {
-                "name": "Scientifique Civil",
+                "name": "Scientifiv Civil",
                 "uniques": [
                     "Gifts of Gold to City-States generate [25]% more Influence"
                 ],
@@ -23,7 +23,7 @@
                 "column": 2
             },
             {
-                "name": "Cultural Civil",
+                "name": "Cultured Civil",
                 "uniques": [
                     "Resting point for Influence with City-States is increased by [20]"
                 ],
@@ -31,16 +31,16 @@
                 "column": 4
             },
             {
-                "name": "Scholasticism",
+                "name": "Merchant Civilian",
                 "uniques": [
                     "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
                 ],
-                "requires": ["Scientifiques Civil","Cultural Civil"],
+                "requires": ["Scientific Civil","Cultured Civil"],
                 "row": 2,
                 "column": 3
             },
             {
-                "name": "Cultural Diplomacy",
+                "name": "Merchant Civilian",
                 "uniques": [
                     "[+100]% resources gifted by City-States",
                     "[+50]% Happiness from luxury resources gifted by City-States"
@@ -51,7 +51,7 @@
             },
             {
                 "name": "Educated Elite",
-                "requires": ["Scholasticism"],
+                "requires": ["Merchant Civilian"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People"
                 ],
