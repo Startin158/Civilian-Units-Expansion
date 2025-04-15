@@ -6,10 +6,10 @@
 		"cost": 300,
 		"requiredTech": "Future Tech",
 		"requiredResource": "Uranium",
-  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly Land]> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"],
+  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly]> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly] tiles> <costs [100] gold>"],
   "quote": " Un travailleur capable de terraformer son environnement ! Mais contre un peu d'or..."
 	},
-// change le type de terrain contre 100 or
+// change le type de terrain contre 100 or Turn this tile into a [Coast] tile <in [Friendly Land] tiles> <in [Friendly Land] tiles>
 {
 		"name": "Seedler.",
 		"unitType": "Civilian",
@@ -17,7 +17,7 @@
 		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
-  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>"]
+  "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly] tiles> <costs [50] gold>"]
   "quote": " Un expert paysagiste capable de replanter des forêts et des jungles ! Enfin si vous avez de quoi le payer."
 // plante des forêts et des jungles contre 50 or 
 	},
