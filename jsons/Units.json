@@ -83,5 +83,15 @@
   "quote": "Un ouvrier c'est bien, un ouvrier qualifié c'est mieux !"
 //un meilleur ouvrier, qui construit plus vite les aménagements et encore plus vite les routes 
 	}
+{
+		"name": "Diplomate",
+		"unitType": "Civilian",
+  "requiredTech": "Chivalry",
+		"movement": 3,
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence <by consuming this unit>","May enter foreign tiles without open borders <when not at war>"],
+		"cost": 100
+  "quote": "Entretenir de bonnes relations avec les cités états est important, donc il faut des diplomate !"
+//un meilleur ouvrier, qui construit plus vite les aménagements et encore plus vite les routes 
+	}
 ]
  
