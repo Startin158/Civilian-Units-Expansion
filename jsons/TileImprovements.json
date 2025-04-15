@@ -6,6 +6,6 @@
   "gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
-		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]"],
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	}
 ]
