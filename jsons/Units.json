@@ -8,8 +8,7 @@
 		"requiredResource": "Uranium",
   "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly Land> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"]
 	},
-// plaines>savane / savane>plaine / plaines>toundra / toundra>plaine / neige>toundra / troudra 
->neige / savane>désert / désert>savane
+// change le type de terrain contre 100 or
 {
 		"name": "Seedler",
 		"unitType": "Civil",
@@ -18,6 +17,7 @@
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
   "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>,""Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>"]
+// plante des forêts et des jungles contre 50 or 
 	}
 ]
  
