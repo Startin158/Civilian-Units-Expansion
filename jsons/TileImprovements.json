@@ -1,12 +1,7 @@
 [
 	{
 		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": [
-			"Plains",
-			"Grassland",
-			"Desert",
-			"Flood plains"
-		],
+		"terrainsCanBeBuiltOn": ["Wine"],
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
