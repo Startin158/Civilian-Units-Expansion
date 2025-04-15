@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Terraformer",
-		"unitType": "Civilan",
+		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 300,
 		"requiredTech": "Future Tech",
@@ -11,8 +11,8 @@
 	},
 // change le type de terrain contre 100 or
 {
-		"name": "Seedler",
-		"unitType": "Civil",
+		"name": "Seedler.",
+		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 100,
 		"requiredTech": "Fertilizer",
@@ -23,7 +23,7 @@
 	},
 {
 		"name": "Entrepreneur",
-		"unitType": "Civil",
+		"unitType": "Civilian",
   "requiredTech": "Civil Service",
 		"movement": 2,
 		"cost": 200,
@@ -35,7 +35,7 @@
 	},
 {
 		"name": "Animal lover Tourist",
-		"unitType": "Civil",
+		"unitType": "Civilian",
   "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
@@ -45,7 +45,7 @@
 	},
 {
 		"name": "Natural lover Tourist",
-		"unitType": "Civil",
+		"unitType": "Civilian",
   "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
@@ -55,7 +55,7 @@
 	},
 {
 		"name": "Adevnture lover Tourist",
-		"unitType": "Civil",
+		"unitType": "Civilian",
   "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
@@ -65,7 +65,7 @@
 	},
 {
 		"name": "Médecin",
-		"unitType": "Civil",
+		"unitType": "Civilian",
   "requiredTech": "Biology",
 		"movement": 3,
 		"cost": 60,
