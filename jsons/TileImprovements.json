@@ -8,6 +8,7 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
+//espaceeeeeee
 	{
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
@@ -17,6 +18,7 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
+//espaceeeeeeee
 	{
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
@@ -25,6 +27,8 @@
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+ },
+//espaceeeeee
 	{
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
@@ -34,6 +38,7 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
+//espaceeeee
 	{
 		"name": "Wine Entreprise",
 		"terrainsCanBeBuiltOn": ["Wine"],
@@ -43,5 +48,35 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
+//espaceeeee
+	{
+		"name": "Wine Entreprise",
+		"terrainsCanBeBuiltOn": ["Wine"],
+		"food": 1,
+  "gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
 	},
+/espaceeeeee
+	{
+		"name": "Wine Entreprise",
+		"terrainsCanBeBuiltOn": ["Wine"],
+		"food": 1,
+  "gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+	},
+	}
+/espaceeeeee
+	{
+		"name": "Wine Entreprise",
+		"terrainsCanBeBuiltOn": ["Wine"],
+		"food": 1,
+  "gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+		"uniques": ["Entreprise" "Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Wine]"],
+	}
 ]
