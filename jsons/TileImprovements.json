@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Wine Entreprise",
-		"terrainsCanBeBuiltOn": ["Wine"],
+		"terrainsCanBeBuiltOn": ["[Wine] tiles"],
 		"food": 1,
   "gold": 3,
 		"turnsToBuild": 7,
