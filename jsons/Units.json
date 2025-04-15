@@ -73,7 +73,7 @@
 // Un renfort essentiel sur le terrain 
 	},
 {
-		"name": "Worker",
+		"name": "Skilled Worker",
 		"unitType": "Civilian",
   "requiredTech": "Industrialization",
 		"movement": 3,
