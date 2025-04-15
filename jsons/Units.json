@@ -28,6 +28,14 @@
 		"requiredResource": "Coal",
   "uniques": ["Can build [Entreprise] improvements on tiles"]
 // créé une entreprise qui double les ressources de luxe contre sa mort !
+	},
+{
+		"name": "Touristes",
+		"unitType": "Civil",
+		"movement": 1,
+		"cost": 60,
+  "uniques": ["Can build [Entreprise] improvements on tiles"]
+// créé une entreprise qui double les ressources de luxe contre sa mort !
 	}
 ]
  
