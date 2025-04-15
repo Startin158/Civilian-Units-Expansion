@@ -24,7 +24,7 @@
 {
 		"name": "Entrepreneur",
 		"unitType": "Civilian",
-  "requiredTech": "Civil Service",
+  "requiredTech": "Guilds",
 		"movement": 2,
 		"cost": 200,
 		"requiredTech": "",
