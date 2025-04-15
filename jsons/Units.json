@@ -6,7 +6,8 @@
 		"cost": 300,
 		"requiredTech": "Future Tech",
 		"requiredResource": "Uranium",
-  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly Land> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"]
+  "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <in [Friendly Land> <costs [100] gold>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Plains] tile <in [Desert] tiles> <in [Friendly Land] tiles> <costs [100] gold>","Turn this tile into a [Desert] tile <in [Plains] tiles> <in [Friendly Land] tiles> <costs [100] gold>"].
+  "quote": " Un travailleur capable de terraformer son environnement ! Mais contre un peu d'or..."
 	},
 // change le type de terrain contre 100 or
 {
@@ -17,6 +18,7 @@
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
   "uniques": ["Can build [Forest] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Tundra] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Hill] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Forest] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>","Can build [Jungle] improvements on tiles <in [Grassland] tiles> <in [Friendly Land] tiles> <costs [50] gold>,""Can build [Jungle] improvements on tiles <in [Plains] tiles> <in [Friendly Land] tiles> <costs [50] gold>"]
+  "quote": " Un expert paysagiste capable de replanter des forêts et des jungles ! Enfin si vous avez de quoi le payer.
 // plante des forêts et des jungles contre 50 or 
 	},
 {
@@ -27,6 +29,7 @@
 		"requiredTech": "",
 		"requiredResource": "Coal",
   "uniques": ["Can build [Entreprise] improvements on tiles"]
+  "quote": "Une personne ordinaire, qui souhaite créer une entreprise pour subvenir au besoin de sa famille et de sa patrie. Peut être que dans 100ans on se souviendra d'elle et de son entreprise !"
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	},
 {
@@ -35,6 +38,7 @@
 		"movement": 1,
 		"cost": 60,
   "uniques": ["Consumes [1] [Cattle]","Consumes [1] [Deer]","Consumes [1] [Sheep]","Gain [11] [Gold] <every [3] turns>"]
+  "quote":""
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
@@ -43,6 +47,7 @@
 		"movement": 1,
 		"cost": 60,
   "uniques": ["Consumes [1] [Bananas]","Consumes [1] [Wheat]","Gain [5] [Gold] <every [2] turns>"]
+  "quote": ""
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
@@ -51,6 +56,7 @@
 		"movement": 1,
 		"cost": 60,
   "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Gain [2] [Gold] <every [1] turns>"]
+  "quote": ""
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
@@ -59,6 +65,8 @@
 		"movement": 3,
 		"cost": 60,
   "uniques": ["Consumes [1] [Horses]","All adjacent units heal [20] HP when healing"]
+  "quote": "Dans une guerre, le camp avec le plus de blessé 
+Un renfort essentiel sur le terrain"
 // Un renfort essentiel sur le terrain 
 	}
 ]
