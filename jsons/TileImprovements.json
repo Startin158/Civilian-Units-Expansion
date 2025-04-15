@@ -53,7 +53,7 @@
 		"turnsToBuild": 7,
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
-/espaceeeeee
+//espaceeeeee
 	{
 		"name": "Silver Entreprise",
 		"terrainsCanBeBuiltOn": ["Silver"],
@@ -63,7 +63,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 	{
-/espaceeeeee
+//espaceeeeee
 		"name": "Incense Entreprise",
 		"terrainsCanBeBuiltOn": ["Incense"],
 		"faith": 3,
@@ -73,7 +73,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Ivory Entreprise",
 		"terrainsCanBeBuiltOn": ["Ivory"],
 		"food": 3,
@@ -83,7 +83,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Silk Entreprise",
 		"terrainsCanBeBuiltOn": ["Silk"],
 		"faith": 1,
@@ -93,7 +93,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Sugar Entreprise",
 		"terrainsCanBeBuiltOn": ["Sugar"],
   "food": 4,
@@ -112,7 +112,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Marble Entreprise",
 		"terrainsCanBeBuiltOn": ["Marble"],
 		"production": 2,
@@ -122,7 +122,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Citrus Entreprise",
 		"terrainsCanBeBuiltOn": ["Citrus"],
 		"food": 2,
@@ -132,7 +132,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Copper Entreprise",
 		"terrainsCanBeBuiltOn": ["Copper"],
 		"production": 3,
@@ -141,7 +141,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Salt Entreprise",
 		"terrainsCanBeBuiltOn": ["Salt"],
 		"food": 2,
@@ -150,7 +150,7 @@
 		"uniques": ["Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
-/espaceeeeee
+//espaceeeeee
 		"name": "Truffles Entreprise",
 		"terrainsCanBeBuiltOn": ["Truffles"],
 		"food": 1,
