@@ -4,7 +4,7 @@
 		"food": 1,
   "gold": 3,
 		"turnsToBuild": 7,
-		"uniques": ["Can only be built to improve a resource <for units with [Entrepreneur]>","Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Can only be built to improve a resource ","Entreprise","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeeee
 	{
