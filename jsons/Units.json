@@ -106,5 +106,15 @@
 		"movement": 3,
 		"uniques": ["Can build [SuperFort] improvements on tiles","Can build [Entreprise M] improvements on tiles","Automation is a primary action","[+6]% Strength bonus for [Military] units within [2] tiles","[+8]% Strength bonus for [Military] units within [1] tiles","Can build [All Road] improvements on tiles","Can instantly construct a [Military Entreprise] improvement <by consuming this unit>"],
 		"cost": 70
-	}
+	},
+{
+"name": "Warrior Worker",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 30,
+		"cost": 85,
+		"requiredTech": "Replaceable Parts",
+		"attackSound": "shot"
+  "quote": "Assez de devoir protéger vos faible ouvriers ? Assez de les voir inutile face à vos assaillant ? Qui a dis que tous les ouvriers étaient inutile ! Surment pas ceux affrontant les tirailleurs travailleurs"
+}
 ]
