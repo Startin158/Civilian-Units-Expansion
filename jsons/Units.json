@@ -143,7 +143,8 @@
 		"name": "Territorial stealer",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>",""],
+
+		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>","May enter foreign tiles without open borders"],
 		"cost": 120
 	}
 ]
