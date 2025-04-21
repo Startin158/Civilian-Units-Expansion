@@ -28,7 +28,7 @@
 		"movement": 2,
 		"cost": 200,
 		"requiredResource": "Coal", 
-  "uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Can build [Entreprise] improvements on tiles","Can instantly construct a [Gems Entreprise] improvement <by consuming this unit>","Can instantly construct a [Dyes Entreprise] improvement <by consuming this unit>","Can instantly construct a [Cotton Entreprise] improvement <by consuming this unit>","Can instantly construct a [Furs Entreprise] improvement <by consuming this unit>","Can instantly construct a [Wine Entreprise] improvement <by consuming this unit>","Can instantly construct a [Silk Entreprise] improvement <by consuming this unit>","Can instantly construct a [Ivory Entreprise] improvement <by consuming this unit>","Can instantly construct a [Incense Entreprise] improvement <by consuming this unit>","Can instantly construct a [Silver Entreprise] improvement <by consuming this unit>","Can instantly construct a [Gold Entreprise] improvement <by consuming this unit>","Can instantly construct a [Copper Entreprise] improvement <by consuming this unit>","Can instantly construct a [Citrus Entreprise] improvement <by consuming this unit>","Can instantly construct a [Marble Entreprise] improvement <by consuming this unit>","Can instantly construct a [Spices Entreprise] improvement <by consuming this unit>","Can instantly construct a [Sugar Entreprise] improvement <by consuming this unit>","Can instantly construct a [Truffles Entreprise] improvement <by consuming this unit>","Can instantly construct a [Salt Entreprise] improvement <by consuming this unit>"],
+  "uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Can instantly construct a [Military Entreprise] improvement <by consuming this unit>","Can build [Entreprise] improvements on tiles","Can instantly construct a [Gems Entreprise] improvement <by consuming this unit>","Can instantly construct a [Dyes Entreprise] improvement <by consuming this unit>","Can instantly construct a [Cotton Entreprise] improvement <by consuming this unit>","Can instantly construct a [Furs Entreprise] improvement <by consuming this unit>","Can instantly construct a [Wine Entreprise] improvement <by consuming this unit>","Can instantly construct a [Silk Entreprise] improvement <by consuming this unit>","Can instantly construct a [Ivory Entreprise] improvement <by consuming this unit>","Can instantly construct a [Incense Entreprise] improvement <by consuming this unit>","Can instantly construct a [Silver Entreprise] improvement <by consuming this unit>","Can instantly construct a [Gold Entreprise] improvement <by consuming this unit>","Can instantly construct a [Copper Entreprise] improvement <by consuming this unit>","Can instantly construct a [Citrus Entreprise] improvement <by consuming this unit>","Can instantly construct a [Marble Entreprise] improvement <by consuming this unit>","Can instantly construct a [Spices Entreprise] improvement <by consuming this unit>","Can instantly construct a [Sugar Entreprise] improvement <by consuming this unit>","Can instantly construct a [Truffles Entreprise] improvement <by consuming this unit>","Can instantly construct a [Salt Entreprise] improvement <by consuming this unit>"],
    "quote": "Une personne ordinaire, qui souhaite créer des entreprises pour s'enrichir et pour enrichir sa patrie. Peut être que dans 100ans on se souviendra d'elle et de ses entreprises !"
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	},
@@ -63,12 +63,22 @@
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
+		"name": "War Tourist",
+		"unitType": "Civilian",
+  "requiredTech": "Replaceable Parts",
+		"movement": 1,
+		"cost": 60,
+  "uniques": ["[0]% maintenance costs","Consumes [3] [Military Stuff]","Gain [6] [Gold] <every [2] turns>"]
+  "quote": "Un gars interressé par la guerre,et un peu trop curieux, qui contre des équipements de guerres, va donner de l'or"
+// Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
+	},
+{
 		"name": "Médecin",
 		"unitType": "Civilian",
   "requiredTech": "Biology",
 		"movement": 3,
 		"cost": 60,
-  "uniques": ["[0]% maintenance costs","Consumes [1] [Horses]","Consumes [1] [Military Stuff]","All adjacent units heal [20] HP when healing"]
+  "uniques": ["[0]% maintenance costs","Consumes [1] [Military Stuff]","All adjacent units heal [20] HP when healing"]
   "quote": "Dans une guerre, le camp avec le plus de blessé est celui qui a le plus de chance de perdre. Donc ce bonhomme est un renfort essentiel sur le terrain"
 // Un renfort essentiel sur le terrain 
 	},
@@ -104,7 +114,7 @@
 		"unitType": "Civilian",
   "requiredTech": "Replaceable Parts",
 		"movement": 3,
-		"uniques": ["Can build [SuperFort] improvements on tiles","Can build [Entreprise M] improvements on tiles","Automation is a primary action","[+6]% Strength bonus for [Military] units within [2] tiles","[+8]% Strength bonus for [Military] units within [1] tiles","Can build [All Road] improvements on tiles","Can instantly construct a [Military Entreprise] improvement <by consuming this unit>"],
+		"uniques": ["Can build [SuperFort] improvements on tiles","Automation is a primary action","[+6]% Strength bonus for [Military] units within [2] tiles","[+8]% Strength bonus for [Military] units within [1] tiles","Can build [All Road] improvements on tiles","Consumes [1] [Military Stuff]"],
 		"cost": 70
 	},
 {
