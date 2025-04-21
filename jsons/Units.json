@@ -122,10 +122,21 @@
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 30,
-		"cost": 85,
+		"cost": 100,
 		"requiredTech": "Replaceable Parts",
 		"attackSound": "shot"
-  "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Consumes [1] [Military Stuff]"],
-  "quote": "Assez de devoir protéger vos faible ouvriers ? Assez de les voir inutile face à vos assaillant ? Qui a dis que tous les ouvriers étaient inutile ! Surment pas ceux affrontant les tirailleurs travailleurs"
-}
+  "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Consumes [2] [Military Stuff]"],
+  "quote": "Assez de devoir protéger vos faibles ouvriers ? Assez de les voir inutile face à vos assaillant ? Qui a dis que tous les ouvriers étaient inutile ! Surment pas ceux affrontant les tirailleurs travailleurs"
+},
+{
+		"name": "Anti-Tank Worker",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 60,
+		"cost": 200,
+		"requiredTech": "Combined Arms",
+		"uniques": ["Can build [Land] improvements on tiles","Automation is a primary action","[+50]% Strength <vs [Armored] units>", "Consumes [4] [Military Stuff]"],
+		"attackSound": "machinegun"
+  "quote": "Anti-Tank quoi?! Attendez vous avez vraiment besoin d'un ouvrier Anti-Tank !"
+	},
 ]
