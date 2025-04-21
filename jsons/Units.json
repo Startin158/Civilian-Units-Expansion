@@ -9,7 +9,7 @@
   "uniques": ["Turn this tile into a [Tundra] tile <in [Snow] tiles> <by consuming this unit>","Turn this tile into a [Snow] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Grassland] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Plains] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Grassland] tile <in [Plains] tiles> <by consuming this unit","Turn this tile into a [Tundra] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Plains] tile <in [Desert] tiles> <by consuming this unit>","Turn this tile into a [Desert] tile <in [Plains] tiles> <by consuming this unit>"],
   "quote": " Un travailleur capable de terraformer son environnement !"
 	},
-// change le type de terrain contre 100 or Turn this tile into a [Grassland] tile <in [Land] tiles> <by consuming this unit>
+//change le type de terrain contre 100 or Turn this tile into a [Grassland] tile <in [Land] tiles> <by consuming this unit>
 {
 		"name": "Seedler.",
 		"unitType": "Civilian",
@@ -21,15 +21,15 @@
   "quote": " Un expert paysagiste capable de replanter des forêts et des jungles !."
 // plante des forêts et des jungles contre 50 or 
 	},
-//{
-		//"name": "Entrepreneur",
-	//	"unitType": "Civilian",
- // "requiredTech": "Civil Service",
-	//	"movement": 2,
-	//	"cost": 200,
-	//	"requiredResource": "Coal", 
- //   "uniques": ["Great Person - [Gold]","Can instantly construct a [Dyes Entreprise] improvement <in [Dyes] tiles> <by consuming this unit>","Can instantly construct a [Cotton Entreprise] improvement <in [Cotton] tiles> <by consuming this unit>","Can instantly construct a [Furs Entreprise] improvement <in [Furs] tiles> <by consuming this unit>","Can instantly construct a [Wine Entreprise] improvement <in [Wine] tiles> <by consuming this unit>","Can instantly construct a [Incense Entreprise] improvement <in [Incense] tiles> <by consuming this unit>","Can instantly construct a [Silver Entreprise] improvement <in [Silver] tiles> <by consuming this unit>","Can instantly construct a [Gold Entreprise] improvement <in [Gold Ore] tiles> <by consuming this unit>","Can instantly construct a [Gems Entreprise] improvement <in [Gems] tiles> <by consuming this unit>","Can instantly construct a [Marble Entreprise] improvement <in [Marble] tiles> <by consuming this unit>","Can instantly construct a [Spices Entreprise] improvement <in [Spices] tiles> <by consuming this unit>","Can instantly construct a [Sugar Entreprise] improvement <in [Sugar] tiles> <by consuming this unit>","Can instantly construct a [Silk Entreprise] improvement <in [Silk] tiles> <by consuming this unit>","Can instantly construct a [Ivory Entreprise] improvement <in [Ivory] tiles> <by consuming this unit>","Can instantly construct a [Truffles Entreprise] improvement <in [Truffles] tiles> <by consuming this unit>","Can instantly construct a [Salt Entreprise] improvement <in [Salt] tiles> <by consuming this unit>","Can instantly construct a [Copper Entreprise] improvement <in [Copper] tiles> <by consuming this unit>","Can instantly construct a [Citrus Entreprise] improvement <in [Citrus] tiles> <by consuming this unit>"]
-  //"quote": "Une personne ordinaire, qui souhaite créer une entreprise pour subvenir au besoin de sa famille et de sa patrie. Peut être que dans 100ans on se souviendra d'elle et de son entreprise !"
+{
+		"name": "Entrepreneur",
+	 "unitType": "Civilian",
+  "requiredTech": "Civil Service",
+		"movement": 2,
+		"cost": 200,
+		"requiredResource": "Coal", 
+  "uniques": ["Great Person - [Gold]","Can instantly construct a [Dyes Entreprise] improvement <in [Dyes] tiles> <by consuming this unit>","Can instantly construct a [Cotton Entreprise] improvement <in [Cotton] tiles> <by consuming this unit>","Can instantly construct a [Furs Entreprise] improvement <in [Furs] tiles> <by consuming this unit>","Can instantly construct a [Wine Entreprise] improvement <in [Wine] tiles> <by consuming this unit>","Can instantly construct a [Incense Entreprise] improvement <in [Incense] tiles> <by consuming this unit>","Can instantly construct a [Silver Entreprise] improvement <in [Silver] tiles> <by consuming this unit>","Can instantly construct a [Gold Entreprise] improvement <in [Gold Ore] tiles> <by consuming this unit>","Can instantly construct a [Gems Entreprise] improvement <in [Gems] tiles> <by consuming this unit>","Can instantly construct a [Marble Entreprise] improvement <in [Marble] tiles> <by consuming this unit>","Can instantly construct a [Spices Entreprise] improvement <in [Spices] tiles> <by consuming this unit>","Can instantly construct a [Sugar Entreprise] improvement <in [Sugar] tiles> <by consuming this unit>","Can instantly construct a [Silk Entreprise] improvement <in [Silk] tiles> <by consuming this unit>","Can instantly construct a [Ivory Entreprise] improvement <in [Ivory] tiles> <by consuming this unit>","Can instantly construct a [Truffles Entreprise] improvement <in [Truffles] tiles> <by consuming this unit>","Can instantly construct a [Salt Entreprise] improvement <in [Salt] tiles> <by consuming this unit>","Can instantly construct a [Copper Entreprise] improvement <in [Copper] tiles> <by consuming this unit>","Can instantly construct a [Citrus Entreprise] improvement <in [Citrus] tiles> <by consuming this unit>"]
+   "quote": "Une personne ordinaire, qui souhaite créer une entreprise pour subvenir au besoin de sa famille et de sa patrie. Peut être que dans 100ans on se souviendra d'elle et de son entreprise !"
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	},
 {
