@@ -147,7 +147,8 @@
 		"name": "Military Entreprise",
   "Production": 5,
 		"turnsToBuild": 300,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>"],
+  "requiredTech": "Replaceable Parts",
+		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>"],
 	},
 {
 //espaceeeeee
@@ -155,6 +156,7 @@
   "terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
   "requiredTech": "Replaceable Parts",
-		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage"],
+  "requiredTech": "Replaceable Parts",
+		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage","Consumes [1] [Military Stuff]"],
 	}
 ]
