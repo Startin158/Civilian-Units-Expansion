@@ -12,6 +12,7 @@
 	},
 {
 		"name": "Enterprise Administrative Building",
+ 	"isNationalWonder": true,
 		"culture": 2,
   "production": 4,
   "happiness": 2,
