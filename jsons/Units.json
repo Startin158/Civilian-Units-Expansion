@@ -139,4 +139,11 @@
 		"attackSound": "machinegun"
   "quote": "Anti-Tank quoi?! Attendez vous avez vraiment besoin d'un ouvrier Anti-Tank !"
 	},
+{
+		"name": "Territorial stealer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>",""],
+		"cost": 120
+	}
 ]
