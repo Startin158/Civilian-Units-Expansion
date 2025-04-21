@@ -147,6 +147,7 @@
 		"name": "SuperFort",
   "terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
+  "requiredTech": "Replaceable Parts",
 		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage"],
 	}
 ]
