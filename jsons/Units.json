@@ -103,7 +103,7 @@
 		"name": "Military aid",
 		"unitType": "Civilian",
 		"movement": 3,
-		"uniques": ["Can build [SuperFort] improvements on tiles", "Automation is a primary action","[+6]% Strength bonus for [Military] units within [2] tiles","[+8]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["Can build [SuperFort] improvements on tiles", "Automation is a primary action","[+6]% Strength bonus for [Military] units within [2] tiles","[+8]% Strength bonus for [Military] units within [1] tiles","Can build [All Road] improvements on tiles"],
 		"cost": 70
 	}
 ]
