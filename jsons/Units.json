@@ -100,7 +100,7 @@
 		"cost": 70
 	},
 {
-		"name": "Military aide",
+		"name": "Military aid",
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": ["Can build [SuperFort] improvements on tiles", "Automation is a primary action"],
