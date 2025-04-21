@@ -48,7 +48,7 @@
   "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
-  "uniques": ["Consumes [1] [Bananas]","Consumes [1] [Wheat]","Gain [5] [Gold] <every [2] turns>"]
+  "uniques": ["[0]% maintenance costs","Consumes [1] [Bananas]","Consumes [1] [Wheat]","Gain [5] [Gold] <every [2] turns>"]
   "quote": "Un gars, possé là, qui vie pour sa passion de la nature et consomme des trucs qui servent à rien contre de l'or"
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
@@ -58,7 +58,7 @@
   "requiredTech": "Horseback Riding",
 		"movement": 1,
 		"cost": 40,
-  "uniques": ["Consumes [1] [Fish]","Consumes [1] [Stone]","Gain [2] [Gold] <every [1] turns>"]
+  "uniques": ["[0]% maintenance costs","Consumes [1] [Fish]","Consumes [1] [Stone]","Gain [2] [Gold] <every [1] turns>"]
   "quote": "Un gars, possé là, qui vie pour sa passion de l'aventure et consomme des trucs qui servent à rien contre de l'or"
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
@@ -68,7 +68,7 @@
   "requiredTech": "Biology",
 		"movement": 3,
 		"cost": 60,
-  "uniques": ["Consumes [1] [Horses]","All adjacent units heal [20] HP when healing"]
+  "uniques": ["[0]% maintenance costs","Consumes [1] [Horses]","All adjacent units heal [20] HP when healing"]
   "quote": "Dans une guerre, le camp avec le plus de blessé est celui qui a le plus de chance de perdre. Donc ce bonhomme est un renfort essentiel sur le terrain"
 // Un renfort essentiel sur le terrain 
 	},
