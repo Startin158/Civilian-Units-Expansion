@@ -115,6 +115,7 @@
 		"cost": 85,
 		"requiredTech": "Replaceable Parts",
 		"attackSound": "shot"
+  "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Consumes [1] [Military Stuff]"],
   "quote": "Assez de devoir protéger vos faible ouvriers ? Assez de les voir inutile face à vos assaillant ? Qui a dis que tous les ouvriers étaient inutile ! Surment pas ceux affrontant les tirailleurs travailleurs"
 }
 ]
