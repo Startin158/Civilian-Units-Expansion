@@ -91,6 +91,12 @@
 		"cost": 100
   "quote": "Entretenir de bonnes relations avec les cités états est important, donc il faut des diplomate !"
 //un meilleur ouvrier, qui construit plus vite les aménagements et encore plus vite les routes 
-	}
+	},
+{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
 ]
- 
