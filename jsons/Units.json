@@ -28,7 +28,7 @@
 		"movement": 2,
 		"cost": 200,
 		"requiredResource": "Coal", 
-  "uniques": ["Can build [Entreprise] improvements on tiles","Can build [Gems Entreprise] improvements at a [20]% rate"]
+  "uniques": ["Can build [Entreprise] improvements on tiles","Can build [Gems Entreprise] improvements at a [20]% rate","Can instantly construct a [Gems Entreprise] improvement <by consuming this unit>"]
    "quote": "Une personne ordinaire, qui souhaite créer des entreprises pour s'enrichir et pour enrichir sa patrie. Peut être que dans 100ans on se souviendra d'elle et de ses entreprises !"
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	},
