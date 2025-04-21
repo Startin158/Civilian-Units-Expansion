@@ -62,7 +62,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 7,
-		"uniques": ["Unbuildable",""Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable","Pillaging this improvement yields approximately [+50 Gold]","Provides [2] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
