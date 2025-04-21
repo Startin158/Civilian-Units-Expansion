@@ -4,7 +4,7 @@
 		"food": 1,
   "gold": 3,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeeee
 	{
@@ -13,7 +13,7 @@
   "production": 2,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeeeee
 	{
@@ -22,7 +22,7 @@
   "culture": 1,
   "food": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
  },
 //espaceeeeee
 	{
@@ -30,7 +30,7 @@
 		"culture": 2,
   "gold": 3,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeee
 	{
@@ -38,14 +38,14 @@
 		"production": 2,
   "gold": 4,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeee
 	{
 		"name": "Gold Entreprise",
   "gold": 5,
 		"turnsToBuild": 300,
-		"uniques": ["Unbuildable <if [Great Civilian Statue] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeeee
 	{
@@ -53,7 +53,7 @@
 		"culture": 2,
   "gold": 3,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 	{
 //espaceeeeee
@@ -62,7 +62,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -71,7 +71,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -80,7 +80,7 @@
   "culture": 3,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -88,7 +88,7 @@
   "food": 4,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -97,7 +97,7 @@
   "culture": 1,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -106,7 +106,7 @@
   "culture": 2,
   "gold": 1,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -115,7 +115,7 @@
   "culture": 1,
   "gold": 2,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -123,7 +123,7 @@
 		"production": 3,
   "gold": 2,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -131,7 +131,7 @@
 		"food": 2,
   "gold": 3,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
@@ -140,7 +140,7 @@
   "culture": 2,
   "gold": 2,
 		"turnsToBuild": 300,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 {
 //espaceeeeee
