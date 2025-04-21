@@ -144,6 +144,13 @@
 	},
 {
 //espaceeeeee
+		"name": "Military Entreprise",
+  "Production": 5,
+		"turnsToBuild": 300,
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [1] [Truffles]","Empire enters a [2]-turn Golden Age <every [150] turns>"],
+	},
+{
+//espaceeeeee
 		"name": "SuperFort",
   "terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
