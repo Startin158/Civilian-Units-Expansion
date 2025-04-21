@@ -38,7 +38,7 @@
 		"production": 2,
   "gold": 4,
 		"turnsToBuild": 30,
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
+		"uniques": ["Entreprise","Unbuildable","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>"],
 	},
 //espaceeeee
 	{
