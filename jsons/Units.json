@@ -99,4 +99,11 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
 	},
+{
+		"name": "Military aide",
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": ["Can build [SuperFort] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	}
 ]
