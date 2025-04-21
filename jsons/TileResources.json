@@ -254,6 +254,7 @@
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Pasture",
+  "improvement": "Military Entreprise",
 		"improvementStats": {"production": 1},
 		"uniques": ["Guaranteed with Strategic Balance resource option",
 					"Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
@@ -273,6 +274,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
+  "improvement": "Military Entreprise",
 		"uniques": ["Guaranteed with Strategic Balance resource option",
 					"Generated with weight [45] <in [{Featureless} {Tundra}] tiles>",
 					"Generated with weight [25] <in [{Featureless} {Snow}] tiles>",
@@ -297,6 +299,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Jungle","Forest","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
+  "improvement": "Military Entreprise",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [35] <in [Hill] tiles>",
 					"Generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
@@ -319,6 +322,7 @@
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
 		"production": 1,
 		"improvedBy": ["Oil well", "Offshore Platform"],
+  "improvement": "Military Entreprise",
 		"improvementStats": {"production": 3},
 		"uniques": ["Deposits in [Coast] tiles always provide [4] resources",
 					"Guaranteed with Strategic Balance resource option",
@@ -342,6 +346,7 @@
 		"terrainsCanBeFoundOn": ["Desert","Tundra","Hill","Snow","Jungle"],
 		"production": 1,
 		"improvement": "Mine",
+  "improvement": "Military Entreprise",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
 					"Generated with weight [15] <in [{Featureless} {Snow}] tiles>",
@@ -358,6 +363,7 @@
 		"terrainsCanBeFoundOn": ["Marsh","Jungle","Forest","Tundra","Snow"],
 		"production": 1,
 		"improvement": "Mine",
+  "improvement": "Military Entreprise",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [35] <in [Marsh] tiles> <in tiles without [Hill]>",
 					"Generated with weight [70] <in [Jungle] tiles> <in tiles without [Hill]>",
@@ -369,7 +375,7 @@
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 {
-		"name": "Military stuff",
+		"name": "Military Stuff",
 		"resourceType": "Strategic",
 }
 ]
