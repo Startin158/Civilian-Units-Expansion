@@ -9,5 +9,15 @@
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Skilled Worker] units appear"],
 		"requiredTech": "Globalization",
 		"quote": "Les civils sont les personnes les plus importantes pour une civilisation, voilà une statue à leurs honneur"
+	},
+{
+		"name": "Great Civilian Statue",
+		"culture": 2,
+  "production": 4,
+  "happiness": 2,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": ["[2] free [Entrepreneur] units appear"],
+		"requiredTech": "Civil Service",
+		"quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
 	}
 ]
