@@ -28,7 +28,7 @@
 		"movement": 2,
 		"cost": 200,
 		"requiredResource": "Coal",
-  "uniques": ["Can build [Entreprise] improvements on tiles"]
+  "uniques": ["Can build [Dyes Entreprise] improvements on tiles","Can build [Cotton Entreprise] improvements on tiles","Can build [Furs Entreprise] improvements on tiles","Can build [Wine Entreprise] improvements on tiles","Can build [Incense Entreprise] improvements on tiles","Can build [Silver Entreprise] improvements on tiles","Can build [Gold Entreprise] improvements on tiles","Can build [Gems Entreprise] improvements on tiles","Can build [Marble Entreprise] improvements on tiles","Can build [Spices Entreprise] improvements on tiles","Can build [Sugar Entreprise] improvements on tiles","Can build [Silk Entreprise] improvements on tiles","Can build [Ivory Entreprise] improvements on tiles","Can build [Truffles Entreprise] improvements on tiles","Can build [Salt Entreprise] improvements on tiles","Can build [Copper Entreprise] improvements on tiles","Can build [Citrus Entreprise] improvements on tiles"]
   "quote": "Une personne ordinaire, qui souhaite créer une entreprise pour subvenir au besoin de sa famille et de sa patrie. Peut être que dans 100ans on se souviendra d'elle et de son entreprise !"
 // créé une entreprise qui double les ressources de luxe contre sa mort !
 	},
