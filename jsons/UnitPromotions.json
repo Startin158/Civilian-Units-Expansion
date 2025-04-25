@@ -3,7 +3,7 @@
 		"name": "Defense of territory I",
 		"uniques": ["[25]% Strength <in [Friendly Land] tiles>"],
 		"unitTypes": ["Civil defender"],
-        "column": 8,
+        "column": 27,
         "row": 1
 	},
 	{
@@ -11,7 +11,7 @@
 		"prerequisites": ["Defense of territory I"],
 		"uniques": ["[40]% Strength <in [Friendly Land] tiles>"],
 		"unitTypes": ["Civil defender"],
-        "column": 8,
+        "column": 27,
         "row": 2
 	},
 	{
@@ -19,14 +19,14 @@
 		"prerequisites": ["ScoutingDefense of territory II"],
 		"uniques": ["Double movement in [Foreign Land]"],
 		"unitTypes": ["Civil defender"],
-        "column": 8,
+        "column": 27,
         "row": 3
 	},
 	{
 		"name": "Trench I",
 		"uniques": ["[+40]% Strength <when defending>","[+3] HP when healing"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 28,
         "row": 1
 	},
 	{
@@ -34,7 +34,7 @@
 		"prerequisites": ["Trench I"],
 		"uniques": ["[+12] HP when healing","[+10]% Strength <when defending>"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 28,
         "row": 2
 	},
 	{
@@ -42,14 +42,14 @@
 		"prerequisites": ["Trench II"],
 		"uniques": ["Unit will heal every turn, even if it performs an action","[+10]% Strength <when defending>"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 28,
         "row": 3
 	},  
 {
 		"name": "Rescue mission I",
 		"uniques": ["[+2] Sight"],
 		"unitTypes": ["Civil defender"],
-        "column": 10,
+        "column": 29,
         "row": 1
 	},
 	{
@@ -57,7 +57,7 @@
 		"prerequisites": ["Rescue mission I"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Civil defender"],
-        "column": 10,
+        "column": 29,
         "row": 2
 	},
 	{
@@ -65,7 +65,7 @@
 		"prerequisites": ["Rescue mission II"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Civil defender"],
-        "column": 10,
+        "column": 29,
         "row": 3
 	}  
 ]
