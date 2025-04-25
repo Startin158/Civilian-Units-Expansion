@@ -119,7 +119,7 @@
 	},
 {
 "name": "Warrior Worker",
-		"unitType": "Gunpowder",
+		"unitType": "Civilian",
 		"movement": 3,
 		"strength": 30,
 		"cost": 100,
@@ -130,7 +130,7 @@
 },
 {
 		"name": "Anti-Tank Worker",
-		"unitType": "Gunpowder",
+		"unitType": "Civilian",
 		"movement": 2,
 		"strength": 60,
 		"cost": 200,
@@ -145,5 +145,29 @@
 		"movement": 2,
 		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>","May enter foreign tiles without open borders","Consumes [2] [Military Stuff]"],
 		"cost": 220
+	}
+// à la nation des civils.
+{
+		"name": "Jet Fighter",
+		"unitType": "City defense",
+		"movement": 1,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 425,
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "jetgun"
+	},{
+		"name": "Defender",
+		"unitType": "Civilian",
+		"uniqueTo": "Polynesia",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 4,
+		"cost": 60,
+	 "obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
 	}
 ]
