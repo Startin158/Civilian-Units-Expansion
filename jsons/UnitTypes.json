@@ -2,11 +2,11 @@
     {
         "name": "City defense",
         "movementType": "Air",
-        "uniques": ["Cannot be intercepted"]
+        "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted",[100]% Strength <vs [Barbarians]>]
     },
     {
         "name": "Warrior civilian",
         "movementType": "Land",
-        "uniques": ["Can pass through impassable tiles"]
+        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[50]% Strength when stacked with [Civilian]"]
     }
 ]
