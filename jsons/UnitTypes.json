@@ -7,6 +7,6 @@
     {
         "name": "Warrior civilian",
         "movementType": "Land",
-        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[50]% Strength when stacked with [Civilian]","[33]% Strength decreasing with distance from the capital"]
+        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[33]% Strength decreasing with distance from the capital"]
     }
 ]
