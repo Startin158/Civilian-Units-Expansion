@@ -49,7 +49,7 @@
 		"name": "Rescue mission I",
 		"uniques": ["[+2] Sight"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 10,
         "row": 1
 	},
 	{
@@ -57,7 +57,7 @@
 		"prerequisites": ["Rescue mission I"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 10,
         "row": 2
 	},
 	{
@@ -65,7 +65,7 @@
 		"prerequisites": ["Rescue mission II"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Civil defender"],
-        "column": 9,
+        "column": 10,
         "row": 3
 	}  
 ]
