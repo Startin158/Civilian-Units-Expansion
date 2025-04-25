@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Defense of territory III",
-		"prerequisites": ["ScoutingDefense of territory II"],
+		"prerequisites": ["Defense of territory II"],
 		"uniques": ["Double movement in [Foreign Land]"],
 		"unitTypes": ["Civil defender"],
         "column": 27,
