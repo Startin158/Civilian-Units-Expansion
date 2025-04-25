@@ -119,7 +119,7 @@
 	},
 {
 "name": "Warrior Worker",
-		"unitType": "Warrior Civilian",
+		"unitType": "Civil defender",
 		"movement": 3,
 		"strength": 30,
 		"cost": 100,
@@ -130,7 +130,7 @@
 },
 {
 		"name": "Anti-Tank Worker",
-		"unitType": "Warrior civilian",
+		"unitType": "Civil defender",
 		"movement": 2,
 		"strength": 60,
 		"cost": 200,
@@ -161,7 +161,7 @@
 	},
 {
 		"name": "Defender",
-		"unitType": "Warrior civilian",
+		"unitType": "Civil defender",
 		"uniqueTo": "Polynesia",
 		"replaces": "Warrior",
 		"movement": 2,
