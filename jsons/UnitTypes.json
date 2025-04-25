@@ -1,8 +1,8 @@
 [
     {
-        "name": "City defens",
+        "name": "City defense",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+        "uniques": ["Cannot be intercepted"]
     },
     {
         "name": "Warrior civilian",
