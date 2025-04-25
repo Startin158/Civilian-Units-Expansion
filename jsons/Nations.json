@@ -32,6 +32,6 @@
         "innerColor": [38, 98, 255],
 		"uniquenames": "The nation of civilians",
   "uniques": ["[+2 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
-		"cities": ["The capital of civilians",  "the city of settlers", "the city of workers", "the city of scouts", "the city of artists", "the city of scientists", "the city of merchants", "the city of engineers", "the city of prophets", "the city of generals", "the city of missionaries", "the city of inquisitors", "the city of science", "the city of gold", "the city of culture", "the city of happiness", "the city of food", "the city of production"]
+		"cities": ["The capital of civilians",  "the city of settlers", "the city of workers", "the city of scouts", "the city of artists", "the city of scientists", "the city of merchants", "the city of engineers", "the city of prophets", "the city of generals", "the city of missionaries", "the city of inquisitors", "the city of science", "the city of gold", "the city of culture", "the city of happiness", "the city of food", "the city of production","the city of improvements", "the city of great improvements", "the city of buildings", "the city of national wonders", "the city of wonders"]
 	}
 ]
