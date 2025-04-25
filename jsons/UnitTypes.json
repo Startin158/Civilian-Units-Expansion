@@ -1,0 +1,12 @@
+[
+    {
+        "name": "City defens",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+    },
+    {
+        "name": "Warrior civilian",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles"]
+    }
+]
