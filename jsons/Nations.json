@@ -24,13 +24,13 @@
 		"hateNo": ["No.","Impossible.","Don't pretend if you don't want to trade"],
 		"hateYes": ["We accepte.","Acceptable."],
 		
-		"afterPeace": "Nous pension que vous partagiez nos idéaux de liberté, d'égalité et de fraternité. Nous voyons maintenant que vous n'êtes pas nos frères.",
-		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples...",
+		"afterPeace": "I thought we were allies, even friends... You're just like the others, wanting to oppress civilians.",
+		"tradeRequest": "I hope this exchange offer is beneficial for both of us.",
 
 		
         "outerColor": [ 239,236,148],
         "innerColor": [38, 98, 255],
-		"uniquenames": "La première démocratie moderne",
+		"uniquenames": "The nation of civilians",
   "uniques": ["[+2 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
 		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
