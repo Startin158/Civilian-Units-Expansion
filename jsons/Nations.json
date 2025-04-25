@@ -32,7 +32,6 @@
         "innerColor": [38, 98, 255],
 		"uniquenames": "The nation of civilians",
   "uniques": ["[+2 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Happiness] [in all cities]","Adopt [Démocratie]"]
-		"cities": ["Paris","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
-"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
+		"cities": ["The capital of civilians",  "the city of settlers", "the city of workers", "the city of scouts", "the city of artists", "the city of scientists", "the city of merchants", "the city of engineers", "the city of prophets", "the city of generals", "the city of missionaries", "the city of inquisitors", "the city of science", "the city of gold", "the city of culture", "the city of happiness", "the city of food", "the city of production"]
 	}
 ]
