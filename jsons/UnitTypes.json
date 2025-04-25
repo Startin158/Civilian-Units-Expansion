@@ -5,7 +5,7 @@
         "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted","[100]% Strength <vs [Barbarians]>"]
     },
     {
-        "name": "Warrior civilian",
+        "name": "Civil defender",
         "movementType": "Land",
         "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[33]% Strength decreasing with distance from the capital"]
     }
