@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Scouting I",
+		"name": "defense of territory I",
 		"uniques": ["[+1] Sight"],
 		"unitTypes": ["Civil defender"],
         "column": 8,
         "row": 1
 	},
 	{
-		"name": "Scouting II",
+		"name": "defense of territory II",
 		"prerequisites": ["Scouting I"],
 		"uniques": ["[+1] Sight"],
 		"unitTypes": ["Civil defender"],
@@ -15,7 +15,7 @@
         "row": 2
 	},
 	{
-		"name": "Scouting III",
+		"name": "defense of territory III",
 		"prerequisites": ["Scouting II"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Civil defender"],
