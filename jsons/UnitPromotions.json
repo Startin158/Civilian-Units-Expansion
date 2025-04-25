@@ -1,46 +1,46 @@
 [
 	{
-		"name": "defense of territory I",
-		"uniques": ["[+1] Sight"],
+		"name": "Defense of territory I",
+		"uniques": ["[25]% Strength <in [Friendly Land] tiles>","[+1] Sight"],
 		"unitTypes": ["Civil defender"],
         "column": 8,
         "row": 1
 	},
 	{
-		"name": "defense of territory II",
+		"name": "Defense of territory II",
 		"prerequisites": ["Scouting I"],
-		"uniques": ["[+1] Sight"],
+		"uniques": ["[40]% Strength <in [Friendly Land] tiles>"],
 		"unitTypes": ["Civil defender"],
         "column": 8,
         "row": 2
 	},
 	{
-		"name": "defense of territory III",
+		"name": "Defense of territory III",
 		"prerequisites": ["Scouting II"],
-		"uniques": ["[+1] Movement"],
+		"uniques": ["Double movement in [Foreign Land]","[+1] Movement"],
 		"unitTypes": ["Civil defender"],
         "column": 8,
         "row": 3
 	},
 	{
-		"name": "Survivalism I",
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+25]% Strength <when defending>"],
+		"name": "Trench I",
+		"uniques": ["[+40]% Strength <when defending>"],
 		"unitTypes": ["Civil defender"],
         "column": 9,
         "row": 1
 	},
 	{
-		"name": "Survivalism II",
-		"prerequisites": ["Survivalism I"],
-		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "[+25]% Strength <when defending>"],
+		"name": "Trench II",
+		"prerequisites": ["Trench I"],
+		"uniques": ["[+12] HP when healing"],
 		"unitTypes": ["Civil defender"],
         "column": 9,
         "row": 2
 	},
 	{
-		"name": "Survivalism III",
-		"prerequisites": ["Survivalism II"],
-		"uniques": ["Unit will heal every turn, even if it performs an action", "Withdraws before melee combat <with [75]% chance>"], // This number is not based on any source
+		"name": "Trench III",
+		"prerequisites": ["Trench II"],
+		"uniques": ["Unit will heal every turn, even if it performs an action","[+10]% Strength <when defending>"],
 		"unitTypes": ["Civil defender"],
         "column": 9,
         "row": 3
