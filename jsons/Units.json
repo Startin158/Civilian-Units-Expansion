@@ -158,7 +158,8 @@
 		"cost": 425,
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "jetgun"
-	},{
+	},
+{
 		"name": "Defender",
 		"unitType": "Civilian",
 		"uniqueTo": "Polynesia",
