@@ -14,7 +14,7 @@
     {
         "name": "unwanted people!",
         "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
-        "uniques": ["Free [Brute] appears"],
+        "uniques": ["Free [Brute] found in the ruins"],
         "color": "#cf8ff7"
     },
     {
@@ -26,7 +26,14 @@
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
-        "uniques": ["Gain [-30] [Gold]"],
+        "uniques": ["Gain [+15] [Food]"],
         "color": "#cf8ff7"
     },
+    {
+        "name": "the ruins were inhabited!",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
+        "uniques": ["Gain [+15] [Food]"],
+        "color": "#cf8ff7"
+    },
+    
 ]
