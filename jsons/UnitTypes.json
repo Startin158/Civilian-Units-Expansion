@@ -2,11 +2,11 @@
     {
         "name": "City defense",
         "movementType": "Air",
-        "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted"]
+        "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted","Cannot move"]
     },
     {
         "name": "Civil defender",
         "movementType": "Land",
-        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[33]% Strength <when defending>","[5] XP gained from combat"]
+        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[50]% Strength <when defending>","[5] XP gained from combat"]
     }
 ]
