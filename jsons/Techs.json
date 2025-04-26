@@ -702,10 +702,10 @@
 	},
 {
 		"columnNumber": 18,
-		"era": "First era",
-		"techCost": 999999,
-		"buildingCost": 999,
-		"wonderCost": 185,
+		"era": "Future era",
+		"techCost": 9500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
 		"techs": [
 			{
 				"name": "test",
