@@ -1,8 +1,20 @@
 [
     {
-        "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
+        "name": "discover a lot of cultural artifacts",
+        "notification": "We have discovered cultural artifacts in the ruins! (+40 culture)",
         "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "Incredible discovery",
+        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a gold coin!",
+        "uniques": ["Gain [1] [Gold]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "unwanted people!",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Brute] appears"],
         "color": "#cf8ff7"
     },
 ]
