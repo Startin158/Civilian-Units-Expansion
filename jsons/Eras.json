@@ -1,2 +1,7 @@
 [
+   {
+        "name": "First era"
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35]
+    }
 ]
