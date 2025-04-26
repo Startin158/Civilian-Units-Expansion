@@ -151,7 +151,11 @@
 		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>"],
 	},
 {
-//espaceeeeee
+
+
+//nouveaux !
+
+
 		"name": "SuperFort",
   "terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 3,
@@ -159,7 +163,7 @@
 		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage","Consumes [1] [Military Stuff]"],
 	},
 {
-		"name": "tourist site: forgotten civilization",
+		"name": "Tourist site: forgotten civilization",
 		"science": 2,
   "culture": 3,
 		"turnsToBuild": 300,
