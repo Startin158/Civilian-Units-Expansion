@@ -168,7 +168,32 @@
 		"strength": 4,
 		"cost": 60,
 	 "obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
+		"upgradesTo": "Shield defender",
 		"attackSound": "nonmetalhit"
-	}
+	},
+{
+		"name": "Shield defender",
+  "unitType": "Civil defender",
+		"uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 10,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Great shield defender",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Great shield defender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 18,
+		"cost": 135,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
 ]
