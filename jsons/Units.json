@@ -404,4 +404,14 @@
         "civilopediaText": [
 			{"text": "Much more efficient than your workers. That's the superiority of the ancients."}
 	},
+{
+		"name": "Destructive flying machine",
+		"unitType": "Bomber",
+		"movement": 2,
+		"strength": 150,
+		"rangedStrength": 150,
+		"range": 30,
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles","Unbuildable"],
+		"attackSound": "bombing"
+	},
 ]
