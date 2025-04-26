@@ -29,79 +29,44 @@
 
 {
 		"name": "Instalation: Stone jet city",
-		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"strength": 8,
-		"rangedStrength": 10,
-		"cost": 60,
-  "range": 2,
 		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
+  "cost": 100,
 		"upgradesTo": "Instalation: Arrow jet city",
-		"attackSound": "arrow"
 	},
 {
 		"name": "Instalation: Arrow jet city",
-		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"strength": 9,
-		"rangedStrength": 13,
-		"cost": 95,
-  "range": 2,
+		"cost": 195
 		"requiredTech": "Construction",
-		"obsoleteTech": "Machinery",
 		"upgradesTo": "Instalation: Mechanical arrow throw",
-		"attackSound": "arrow"
 	},
 {
 		"name": "Instalation: Mechanical arrow throw",
-		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"strength": 16,
-		"rangedStrength": 21,
-  "range": 3,
-		"cost": 140,
+		"cost": 240,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Instalation: Gatling-equipped city",
-		"obsoleteTech": "Industrialization",
-		"attackSound": "crossbow"
+		"upgradesTo": "Instalation: Gatling-equiped city",
 	},
 {
 		"name": "Instalation: Gatling-equipped city",
-		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"strength": 35,
-		"rangedStrength": 35,
-  "range": 4,
-		"cost": 245,
+		"cost": 345,
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Machine Gun-equipped city",
-		"obsoleteTech": "Ballistics",
-		"attackSound": "machinegun"
 	},
 {
-		"name": "Instalation: Machine Gun-equipped city",
-		"unitType": "City defense",
+		"name": "Instalation: Machine Gun-equipped city
   "uniqueTo": "The great civil union",
-		"strength": 67,
-		"rangedStrength": 67,
-  "range": 5,
-		"cost": 370,
+		"cost": 470,
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized city defense",
-		"attackSound": "machinegun"
 	},
 {
 		"name": "Instalation: Mechanized city defense",
-		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"rangedStrength": 100,
-		"strength": 100,
-  "range": 6,
-		"cost": 400,
-  "range": 10,
+		"cost": 500,
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
 	},
 ]
