@@ -253,20 +253,20 @@
 
 
 {
-		"name": "Archer",
+		"name": "Stone jet city",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
-		"strength": 7,
-		"rangedStrength": 9,
+		"strength": 8,
+		"rangedStrength": 10,
 		"cost": 60,
   "range": 2,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Arrow jet city",
 		"attackSound": "arrow"
 	},
 {
-		"name": "Composite Bowman",
+		"name": "Arrow jet city",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"strength": 9,
@@ -275,11 +275,11 @@
   "range": 2,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-		"upgradesTo": "Crossbowman",
+		"upgradesTo": "Mechanical arrow throw",
 		"attackSound": "arrow"
 	},
 {
-		"name": "Crossbowman",
+		"name": "Mechanical arrow throw",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"strength": 16,
@@ -287,12 +287,12 @@
   "range": 3,
 		"cost": 140,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
+		"upgradesTo": "Gatling-equipped city",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "crossbow"
 	},
 {
-		"name": "Gatling Gun",
+		"name": "Gatling-equipped city",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"strength": 35,
@@ -300,12 +300,12 @@
   "range": 4,
 		"cost": 245,
 		"requiredTech": "Industrialization",
-		"upgradesTo": "Machine Gun",
+		"upgradesTo": "Machine Gun-equipped city",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
 	},
 {
-		"name": "Machine Gun",
+		"name": "Machine Gun-equipped city",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"strength": 67,
@@ -313,11 +313,11 @@
   "range": 5,
 		"cost": 370,
 		"requiredTech": "Ballistics",
-		"upgradesTo": "Mechanized Infantry",
+		"upgradesTo": "mechanized city defense",
 		"attackSound": "machinegun"
 	},
 {
-		"name": "Mechanized defender",
+		"name": "mechanized city defense",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"rangedStrength": 100,
