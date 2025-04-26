@@ -353,4 +353,34 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+
+
+
+
+
+
+
+
+
+
+//the anciens techs
+
+
+
+
+
+
+
+
+
+
+{
+		"name": "Ancient archer",
+		"unitType": "Archery",
+		"movement": 1,
+		"strength": 200,
+		"rangedStrength": 200,
+		"cost": 40,
+		"attackSound": "arrow"
+	},
 ]
