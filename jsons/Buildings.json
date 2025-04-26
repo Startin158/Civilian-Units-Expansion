@@ -34,7 +34,7 @@
   "cost": 80,
   "cityStrength": 7,
 		"cityHealth": 5,
-  "uniques": ["Destroyed when the city is captured","Free [Stone jet city] appears <in this city>","New [Ranged] units start with [5] XP [in this city]"]
+  "uniques": ["Destroyed when the city is captured","Free [Stone jet city] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"upgradesTo": "Instalation: Arrow jet city",
 	},
 {
@@ -43,7 +43,7 @@
 		"cost": 180
   "cityStrength": 7,
 		"cityHealth": 5,
-  "uniques": ["Destroyed when the city is captured","Free [Arrow jet city] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Arrow jet city] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"requiredTech": "Construction",
 		"upgradesTo": "Instalation: Mechanical arrow throw",
 	},
@@ -53,7 +53,7 @@
 		"cost": 240,
   "cityStrength": 8,
 		"cityHealth": 5,
-  "uniques": ["Destroyed when the city is captured","Free [Mechanical arrow throw] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Mechanical arrow throw] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"requiredTech": "Machinery",
 		"upgradesTo": "Instalation: Gatling-equiped city",
 	},
@@ -63,7 +63,7 @@
 		"cost": 345,
   "cityStrength": 9,
 		"cityHealth": 7,
-  "uniques": ["Destroyed when the city is captured","Free [Gatling-equipped city] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Gatling-equipped city] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Machine Gun-equipped city",
 	},
@@ -73,7 +73,7 @@
 		"cost": 470,
   "cityStrength": 10,
 		"cityHealth": 7,
-  "uniques": ["Destroyed when the city is captured","Free [Machine Gun-equipped city] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Machine Gun-equipped city] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized city defense",
 	},
@@ -83,7 +83,7 @@
 		"cost": 500,
   "cityStrength": 11,
 		"cityHealth": 9,
-  "uniques": ["Destroyed when the city is captured","Free [Mechanized city defense] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Mechanized city defense] appears <in this city>","New [City defense] units start with [5] XP [in this city]"]
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Never appears as a Barbarian unit"],
 	},
