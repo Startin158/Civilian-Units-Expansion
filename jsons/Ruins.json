@@ -52,7 +52,7 @@
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Overdeveloped archery]"],
         "color": "#cf8ff7"
     },
     {
@@ -70,25 +70,25 @@
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Unrivaled production]"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Destructive attack]"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Inexplicable gold creation technique]"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Transcendental Wisdom]"],
         "color": "#cf8ff7"
     },
     
