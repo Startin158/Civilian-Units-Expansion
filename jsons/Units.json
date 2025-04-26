@@ -324,7 +324,6 @@
 		"strength": 100,
   "range": 6,
 		"cost": 400,
-  "range": 10,
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
