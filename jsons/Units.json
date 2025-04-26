@@ -145,7 +145,18 @@
 		"movement": 2,
 		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>","May enter foreign tiles without open borders","Consumes [2] [Military Stuff]"],
 		"cost": 220
-	}
+	},
+{
+		"name": "Entrepreneur",
+	 "unitType": "Civilian",
+  "requiredTech": "Civil Service",
+		"movement": 2,
+		"cost": 200,
+		"requiredResource": "Coal", 
+  "uniques": ["Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>"]
+   "quote": "Une personne ordinaire, qui souhaite créer des entreprises pour s'enrichir et pour enrichir sa patrie. Peut être que dans 100ans on se souviendra d'elle et de ses entreprises !"
+// un archéologue !
+},
 
 
 
