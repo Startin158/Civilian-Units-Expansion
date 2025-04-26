@@ -703,7 +703,7 @@
 {
 		"columnNumber": 18,
 		"era": "First era",
-		"techCost": 15000,
+		"techCost": 999999,
 		"techs": [
 			{
 				"name": "Secret of the ancients",
@@ -716,7 +716,7 @@
 {
 		"columnNumber": 19,
 		"era": "First era",
-		"techCost": 15000,
+		"techCost": 9999999,
 		"techs": [
 			{
 				"name": "Overdeveloped archery",
@@ -765,7 +765,7 @@
 {
 		"columnNumber": 20,
 		"era": "First era",
-		"techCost": 15000,
+		"techCost": 999999,
 		"techs": [
 			{
 				"name": "Destructive attack",
