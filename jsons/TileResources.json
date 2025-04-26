@@ -356,7 +356,7 @@
 		"resourceType": "Strategic",
 },
 {
-		"name": "Legacy of a civilization",
+		"name": "Trace of civilization",
 		 "resourceType": "Strategic",
   "revealedBy": "Archaeology",
 		"terrainsCanBeFoundOn": ["Snow","Tundra","Desert"],
