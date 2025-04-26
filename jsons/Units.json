@@ -380,9 +380,20 @@
 		"movement": 1,
 		"strength": 200,
 		"rangedStrength": 200,
-		"cost": 40,
   "range": 30,
 		"attackSound": "crossbow"
-  "uniques": ["Eliminates combat penalty for attacking over a river,Eliminates combat penalty for attacking across a coast"]
+  "uniques": ["Eliminates combat penalty for attacking over a river,Eliminates combat penalty for attacking across a coast","Never appears as a Barbarian unit","Unbuildable"]
+        "civilopediaText": [
+			{"text": "An Archer capable of hitting all his targets, even if they are miles apart. This is the ability of the ancients.},
+{
+		"name": "Ancient warrior",
+		"unitType": "Sword",
+		"movement": 1,
+		"strength": 600,
+		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "He is the strongest warrior you will see, but he is the weakest of his time. . ."}
+		]
 	},
 ]
