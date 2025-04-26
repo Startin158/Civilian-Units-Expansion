@@ -11,7 +11,7 @@
     },
     {
         "name": "a stash of gold",
-        "notification": "", // trigger notification only
+        "notification": "",
         "uniques": ["Gain [50]-[100] [Gold]"],
         "color": "#ffeb7f"
     },
