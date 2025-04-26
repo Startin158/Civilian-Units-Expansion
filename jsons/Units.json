@@ -312,6 +312,7 @@
 		"rangedStrength": 67,
   "range": 5,
 		"cost": 370,
+  "obsoleteTech": "Mobile Tactics",
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized city defense",
 		"attackSound": "machinegun"
