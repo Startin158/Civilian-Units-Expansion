@@ -358,7 +358,7 @@
 {
 		"name": "Legacy of a civilization",
 		"resourceType": "Strategic",
-		"revealedBy": "Biology",
+		"revealedBy": "Archaeology",
 		"terrainsCanBeFoundOn": ["Land"],
 		"production": 1,
 		"improvedBy": ["Tourist site: forgotten civilization"],
