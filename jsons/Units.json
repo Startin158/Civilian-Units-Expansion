@@ -396,4 +396,12 @@
 			{"text": "He is the strongest warrior you will see, but he is the weakest of his time. . ."}
 		]
 	},
+{
+		"name": "Ancient worker",
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable","Can build [Improvement] improvements at a [+20000]% rate"],
+        "civilopediaText": [
+			{"text": "Much more efficient than your workers. That's the superiority of the ancients."}
+	},
 ]
