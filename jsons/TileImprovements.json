@@ -173,6 +173,6 @@
 		"name": "{
 		"name": "tourist site: destroyed civilization",
   "culture": 6,
-		"uniques": ["Unbuildable","Provides [4] []","Pillaging this improvement yields approximately [+50 Gold]"],
+		"uniques": ["Unbuildable","Provides [4] [Legacy of a civilization]","Pillaging this improvement yields approximately [+50 Gold]"],
 	}
 ]
