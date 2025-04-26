@@ -53,7 +53,12 @@
 //culture
 
 
-
+    {
+        "name": "discover a lot of cultural artifacts",
+        "notification": "We have discovered cultural artifacts in the ruins! (+15 culture)",
+        "uniques": ["Gain [15] [Culture]"],
+        "color": "#cf8ff7"
+    },
     {
         "name": "discover a lot of cultural artifacts",
         "notification": "We have discovered cultural artifacts in the ruins! (+40 culture)",
@@ -86,6 +91,12 @@
             "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"],
 		"color": "#CDDDF4"
      },
+     {
+        "name": "discover holy symbols",
+        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion!",
+        "uniques": ["Only available <when religion is enabled>","Gain a free [Founder] belief", "Only available <after turn number [30]>"],
+		"color": "#CDDDF4"
+    },
 
 
 
@@ -113,9 +124,9 @@
 
 
 {
-        "name": "Building an altar",
-        "notification": "We found the materials needed to build an altar",
-        "uniques": ["Empire enters a [5]-turn Golden Age"],
+        "name": "Building a monument",
+        "notification": "We found the materials needed to build a monument",
+        "uniques": ["Gain a free [Monument] [in this city]"],
 		"color": "#CDDDF4"
      },
 
@@ -211,61 +222,61 @@
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Exploration technique"],
+        "uniques": ["Exploration technique","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Exceptional sword]"],
+        "uniques": ["Discover [Exceptional sword]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Unknown construction technique]"],
+        "uniques": ["Discover [Unknown construction technique]",""],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Overdeveloped archery]"],
+        "uniques": ["Discover [Overdeveloped archery]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [predictor of misfortune]"],
+        "uniques": ["Discover [predictor of misfortune]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [Superior knowledge]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Unrivaled production]"],
+        "uniques": ["Discover [Unrivaled production]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Destructive attack]"],
+        "uniques": ["Discover [Destructive attack]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Inexplicable gold creation technique]"],
+        "uniques": ["Discover [Inexplicable gold creation technique]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Transcendental Wisdom]"],
+        "uniques": ["Discover [Transcendental Wisdom]","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
     
