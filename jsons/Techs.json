@@ -722,21 +722,21 @@
 				"name": "Overdeveloped archery",
     "prerequisites": ["Secret of the ancients"],
 				"row": 6,
-				"uniques": ["Cannot be hurried"]
+				"uniques": ["Cannot be hurried","Free [Ancient archer] appears"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Unknown construction technique",
     "prerequisites": ["Secret of the ancients"],
 				"row": 7,
-				"uniques": ["Cannot be hurried"]
+				"uniques": ["Cannot be hurried","Free [Ancient worker] appears"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Exceptional sword",
     "prerequisites": ["Secret of the ancients"],
 				"row": 8,
-				"uniques": ["Cannot be hurried"]
+				"uniques": ["Cannot be hurried","Free [Ancient warrior] appears"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
@@ -771,14 +771,14 @@
 				"name": "Destructive attack",
     "prerequisites": ["Overdeveloped archery"],
 				"row": 6,
-				"uniques": ["Cannot be hurried"]
+				"uniques": ["Cannot be hurried","Free [Destructive flying machine] appears"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
-				"name": "Absolute defense",
+				"name": "Exploration technique",
     "prerequisites": ["Exceptional sword"],
 				"row": 8,
-				"uniques": ["Cannot be hurried"]
+				"uniques": ["Cannot be hurried","Free [Ancient scout] appears"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
