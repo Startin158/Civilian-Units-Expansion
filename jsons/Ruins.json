@@ -7,13 +7,13 @@
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold!",
         "uniques": ["Gain [-50]-[-30] [Gold]","Only available <before turn number [50]>"],
-        "color": "#cf8ff7"
+        "color": "#d4c566"
     },
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold!",
         "uniques": ["Gain [-150]-[-50] [Gold]","Only available <after turn number [70]>"],
-        "color": "#cf8ff7"
+        "color": "#d4c566"
     },
     {
         "name": "a stash of gold",
