@@ -249,4 +249,85 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+
+
+
+{
+		"name": "Archer",
+		"unitType": "Archery",
+  "uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Composite Bowman",
+		"unitType": "Archery",
+  "uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Crossbowman",
+		"unitType": "Archery",
+  "uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "crossbow"
+	},
+{
+		"name": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+  "uniqueTo": "The great civil union",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+{
+		"name": "Machine Gun",
+		"unitType": "Ranged Gunpowder",
+  "uniqueTo": "The great civil union",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+	},
+{
+		"name": "Mechanized defender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
+		"movement": 3,
+		"strength": 78,
+		"cost": 400,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+
 ]
