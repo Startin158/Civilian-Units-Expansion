@@ -354,5 +354,42 @@
 {
 		"name": "Military Stuff",
 		"resourceType": "Strategic",
-}
+},
+        {
+                "name": "Legacy of a civilization",
+                "resourceType": "Strategic",
+                "revealedBy": "Archaeology",
+                "terrainsCanBeFoundOn": [
+                        "Plains",
+                        "Grassland",
+                        "Desert",
+                        "Hill"
+                ],
+                "production": 1,
+                "improvement": "",
+                "uniques": [
+                        "Guaranteed with Strategic Balance resource option",
+                        "Generated with weight [45] <in [{Featureless} {Desert}] tiles>",
+                        "Generated with weight [25] <in [{Featureless} {Plains}] tiles>",
+                        "Generated with weight [35] <in [{Featureless} {Grassland}] tiles>",
+                        "Generated with weight [26] <in [Hill] tiles>",
+                        "Minor deposits generated with weight [10] <in [{Jungle} {Hill}] tiles>",
+                        "Minor deposits generated with weight [20] <in [Forest] tiles>",
+                        "Minor deposits generated with weight [20] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+                        "Minor deposits generated with weight [15] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
+                        "Minor deposits generated with weight [20] <in [{Featureless} {Desert}] tiles>",
+                        "Minor deposits generated with weight [10] <in [{Featureless} {Plains}] tiles>",
+                        "Minor deposits generated with weight [10] <in [{Featureless} {Grassland}] tiles>"
+                ],
+                "majorDepositAmount": {
+                        "sparse": 4,
+                        "default": 5,
+                        "abundant": 6
+                },
+                "minorDepositAmount": {
+                        "sparse": 2,
+                        "default": 3,
+                        "abundant": 3
+                }
+
 ]
