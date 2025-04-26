@@ -356,7 +356,7 @@
 		"resourceType": "Strategic",
 },
 {
-		"name": "legacy of a forgotten civilization",
+		"name": "Legacy of a forgotten civilization",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
 		"terrainsCanBeFoundOn": ["Land"],
