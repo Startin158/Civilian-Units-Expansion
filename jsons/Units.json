@@ -415,12 +415,13 @@
 		"attackSound": "bombing"
 	},
 {
-		"name": "Immortal scoot",
-		"unitType": "Scoot",
+		"name": "Immortal scout",
+		"unitType": "Scout",
 		"movement": 7,
 		"strength": 20,
 		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
-		"attackSound": "nonmetalhit",
+ 	"attackSound": "nonmetalhit",
+	 "promotions": ["Ignore terrain cost"],
         "civilopediaText": [
 			{"text": "He can explore the whole world in less time than it takes to say it"}
 		]
