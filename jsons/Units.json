@@ -146,19 +146,13 @@
 		"uniques": ["Gain control over [All] tiles in a [0]-tile radius <by consuming this unit>","Cannot enter ocean tiles <by consuming this unit>","May enter foreign tiles without open borders","Consumes [2] [Military Stuff]"],
 		"cost": 220
 	}
+
+
+
 // à la nation des civils.
-{
-		"name": "Jet Fighter",
-		"unitType": "City defense",
-		"movement": 1,
-		"strength": 75,
-		"rangedStrength": 75,
-		"range": 10,
-		"interceptRange": 10,
-		"cost": 425,
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
-		"attackSound": "jetgun"
-	},
+
+
+
 {
 		"name": "Defender",
 		"unitType": "Civil defender",
@@ -192,41 +186,67 @@
 		"strength": 18,
 		"cost": 135,
 		"requiredTech": "Steel",
-		"upgradesTo": "Musketman",
+		"upgradesTo": "Musketdefender",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
 	},
 {
-		"name": "Musketman",
-		"unitType": "Gunpowder",
+		"name": "Musketdefender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
 		"movement": 2,
-		"strength": 24,
-		"cost": 150,
+		"strength": 20,
+		"cost": 165,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "Civilian rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
 {
-		"name": "Rifleman",
-		"unitType": "Gunpowder",
+		"name": "Civilian rifleman",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
 		"movement": 2,
-		"strength": 34,
-		"cost": 225,
+		"strength": 28,
+		"cost": 240,
 		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
+		"obsoleteTech": "Infantry defender",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 {
-		"name": "Great War Infantry",
-		"unitType": "Gunpowder",
+		"name": "Infantry defender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
 		"movement": 2,
-		"strength": 50,
-		"cost": 320,
+		"strength": 42,
+		"cost": 335,
 		"requiredTech": "Replaceable Parts",
-		"upgradesTo": "Infantry",
+		"upgradesTo": "Great infantry defender",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
+	},
+{
+		"name": "Great infantry defender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
+		"movement": 2,
+		"strength": 63,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized defender",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+{
+		"name": "Mechanized defender",
+		"unitType": "Civil defender",
+  "uniqueTo": "The great civil union",
+		"movement": 3,
+		"strength": 80,
+		"cost": 400,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	},
 ]
