@@ -16,7 +16,7 @@
 		"cost": 100,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
-  "uniques": ["Great Person - [Worker]","Turn this tile into a [Forest] tile <in [Grassland] tiles> <by consuming this unit","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into [Forest] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Hill] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Plains] tiles> <by consuming this unit>"]
+  "uniques": ["Great Person - [Worker]","Turn this tile into a [Forest] tile <in [Grassland] tiles> <by consuming this unit","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into [Forest] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Hill] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Plains] tiles> <by consuming this unit>","Can instantly construct a [Revegetation site] improvement <by consuming this unit>"]
   "quote": " Un expert paysagiste capable de replanter des forêts et des jungles !."
 // plante des forêts et des jungles contre 50 or 
 	},
