@@ -30,11 +30,12 @@
         "color": "#cf8ff7"
     },
 
+//way to win new tech
 
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Exploration technique"],
         "color": "#cf8ff7"
     },
     {
