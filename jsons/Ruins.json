@@ -71,13 +71,13 @@
         "name": "too many survivors!",
         "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!.",
         "uniques": ["[+3] population in a random city","Gain [-40] [Gold]","Only available <after turn number [50]>","Only available <before turn number [140]>"],
-		"color": "#81c784"
+		"color": "#607d24"
     },
     {
         "name": "too many survivors!",
         "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!.",
         "uniques": ["[+6] population in a random city","Gain [-80] [Gold]","Only available <after turn number [100]>","Only available <before turn number [200]>"],
-		"color": "#81c784"
+		"color": "#607d24"
     },
     {
         "name": "the ruins were inhabited!",
