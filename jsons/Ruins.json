@@ -6,7 +6,7 @@
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold!(-30 gold)",
-        "uniques": ["Gain [-50]-[-30] [Gold]",""Only available <before turn number [50]>],
+        "uniques": ["Gain [-50]-[-30] [Gold]","Only available <before turn number [50]>"],
         "color": "#cf8ff7"
     },
     {
