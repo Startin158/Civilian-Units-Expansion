@@ -712,5 +712,89 @@
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    }
 		]
+ },
+{
+		"columnNumber": 19,
+		"era": "First era",
+		"techCost": 15000,
+		"techs": [
+			{
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 6,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 7,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 8,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 2,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 3,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": ["Secret of the ancients"],
+				"row": 4,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   }
+		]
+ },
+{
+		"columnNumber": 20,
+		"era": "First era",
+		"techCost": 15000,
+		"techs": [
+			{
+				"name": "",
+    "prerequisites": [""],
+				"row": 6,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": [""],
+				"row": 8,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": [""],
+				"row": 4,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   },
+   {
+				"name": "",
+    "prerequisites": [""],
+				"row": 2,
+				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
+   }
+		]
  }
 ]
