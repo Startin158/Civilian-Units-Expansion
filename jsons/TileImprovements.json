@@ -180,8 +180,8 @@
 		"name": "Tourist site",
   "culture": 1,
 		"uniques": ["Unbuildable","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
-	},
   "shortcutKey": "O"
+  },
 
 
 
