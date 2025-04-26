@@ -359,7 +359,7 @@
 		"name": "Legacy of a civilization",
 		"resourceType": "Strategic",
 		"revealedBy": "Archaeology",
-		"terrainsCanBeFoundOn": ["Land"],
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
 		"production": 1,
 		"improvedBy": ["Tourist site: forgotten civilization"],
 		"improvementStats": {"production": 3},
