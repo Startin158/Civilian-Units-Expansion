@@ -7,6 +7,6 @@
     {
         "name": "Civil defender",
         "movementType": "Land",
-        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[33]% Strength <when defending>","Unable to capture cities <with [7]% chance>","[5] XP gained from combat"]
+        "uniques": ["Never appears as a Barbarian unit","[100]% Strength <vs [Barbarians]>","[25]% Strength when stacked with [Civilian]","[33]% Strength <when defending>","[5] XP gained from combat"]
     }
 ]
