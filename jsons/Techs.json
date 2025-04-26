@@ -7,6 +7,11 @@
 		"buildingCost": 999,
 		"wonderCost": 185,
 		"techs": [
+			{
+				"name": "test",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Cannot be hurried"]
 		]
 	},
 	{
