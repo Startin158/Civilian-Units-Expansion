@@ -359,7 +359,7 @@
 		"name": "legacy of a forgotten civilization",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
-		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
+		"terrainsCanBeFoundOn": ["Land"],
 		"production": 1,
 		"improvedBy": ["Tourist site: forgotten civilization"],
 		"improvementStats": {"production": 3},
@@ -375,6 +375,6 @@
 					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Tundra}] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Snow}] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 ]
