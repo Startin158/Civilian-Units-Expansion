@@ -722,42 +722,42 @@
 				"name": "Overdeveloped archery",
     "prerequisites": ["Secret of the ancients"],
 				"row": 6,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Unknown construction technique",
     "prerequisites": ["Secret of the ancients"],
 				"row": 7,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Exceptional sword",
     "prerequisites": ["Secret of the ancients"],
 				"row": 8,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Superior knowledge",
     "prerequisites": ["Secret of the ancients"],
 				"row": 4,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "predictor of misfortune",
     "prerequisites": ["Secret of the ancients"],
 				"row": 3,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Unrivaled production",
     "prerequisites": ["Secret of the ancients"],
 				"row": 2,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    }
 		]
@@ -771,28 +771,28 @@
 				"name": "Destructive attack",
     "prerequisites": ["Overdeveloped archery"],
 				"row": 6,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Absolute defense",
     "prerequisites": ["Exceptional sword"],
 				"row": 8,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Transcendental Wisdom",
     "prerequisites": ["Superior knowledge"],
 				"row": 4,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    },
    {
 				"name": "Inexplicable gold creation technique",
     "prerequisites": ["Unrivaled production"],
 				"row": 2,
-				"uniques": ["Cannot be hurried","Can be continually researched"]
+				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    }
 		]
