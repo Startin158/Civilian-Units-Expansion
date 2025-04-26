@@ -3,7 +3,8 @@
 		"name": "Wine Entreprise",
 		"food": 1,
   "gold": 3,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+  "culture": 1,
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 //espaceeeeeee
@@ -12,7 +13,7 @@
 		"food": 2,
   "production": 2,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 //espaceeeeeeee
@@ -21,7 +22,7 @@
   "gold": 3,
   "culture": 1,
   "food": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
  },
 //espaceeeeee
@@ -29,7 +30,7 @@
 		"name": "Dyes Entreprise",
 		"culture": 2,
   "gold": 3,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 //espaceeeee
@@ -37,14 +38,14 @@
 		"name": "Gems Entreprise",
 		"production": 2,
   "gold": 4,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 //espaceeeee
 	{
 		"name": "Gold Entreprise",
   "gold": 5,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 //espaceeeeee
@@ -52,7 +53,7 @@
 		"name": "Silver Entreprise",
 		"culture": 2,
   "gold": 3,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 	{
@@ -61,16 +62,16 @@
 		"faith": 3,
   "culture": 1,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+2 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
 //espaceeeeee
 		"name": "Ivory Entreprise",
-		"food": 3,
+		"food": 1,
   "culture": 1,
-  "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+  "gold": 3,
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -79,7 +80,7 @@
 		"faith": 1,
   "culture": 3,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -87,7 +88,7 @@
 		"name": "Sugar Entreprise",
   "food": 4,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -96,7 +97,7 @@
 		"food": 3,
   "culture": 1,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -105,7 +106,7 @@
 		"production": 2,
   "culture": 2,
   "gold": 1,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -114,7 +115,7 @@
 		"food": 2,
   "culture": 1,
   "gold": 2,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -122,7 +123,7 @@
 		"name": "Copper Entreprise",
 		"production": 3,
   "gold": 2,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -130,7 +131,7 @@
 		"name": "Salt Entreprise",
 		"food": 2,
   "gold": 3,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 
 	},
 {
@@ -139,7 +140,7 @@
 		"food": 1,
   "culture": 2,
   "gold": 2,
-		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -147,7 +148,7 @@
 		"name": "Military Entreprise",
   "production": 5,
   "requiredTech": "Replaceable Parts",
-		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -161,20 +162,20 @@
 		"turnsToBuild": 6,
   "production": 1,
   "requiredTech": "Replaceable Parts",
-		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage","Consumes [1] [Military Stuff]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["SuperFort","Gives a defensive bonus of [75]%","Adjacent enemy units ending their turn take [15] damage","Consumes [1] [Military Stuff]","[+1 Gold] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Production] for each adjacent [Industrial site]","[+1 Food] for each adjacent [Revegetation site]"],
 	},
 {
 		"name": "Tourist site: forgotten civilization",
 		"science": 2,
   "culture": 3,
-		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
 		"name": "Tourist site: destroyed civilization",
  	"terrainsCanBeBuiltOn": ["Land"],
   "culture": 6,
-		"uniques": ["Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                 "shortcutKey": "O"
 	},
 {
@@ -182,7 +183,7 @@
  	"terrainsCanBeBuiltOn": ["Land"],
   "culture": 1,
   "gold": 1,
-		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                  "shortcutKey": "O"
   },
 {
@@ -190,21 +191,21 @@
  	"terrainsCanBeBuiltOn": ["Land"],
   "faith": 1,
   "happiness": 1,
-		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+2 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                  "shortcutKey": "O"
   },
 {
 		"name": "Industrial site",
  	"terrainsCanBeBuiltOn": ["Land"],
   "production": 2,
-		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
                  "shortcutKey": "O"
   },
 {
 		"name": "Revegetation site",
  	"terrainsCanBeBuiltOn": ["Land"],
   "food": 2,
-		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
                  "shortcutKey": "O"
   },
 
@@ -237,7 +238,7 @@
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+            "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "F"
 	},
 	{
@@ -246,7 +247,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "L"
 	},
 	{
@@ -255,7 +256,7 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "M"
 	},
 	{
@@ -264,7 +265,7 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]","[+2 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "T"
 	},
 
@@ -273,27 +274,21 @@
 		"name": "Camp",
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "C"
 	},
 	{
 		"name": "Oil well",
 		"turnsToBuild": 9,
 		"techRequired": "Biology",
-		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "W"
-	},
-	{
-		"name": "Offshore Platform",
-		"techRequired": "Refrigeration",
-		"uniques": ["Can only be built to improve a resource", "Can only be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "P"
 	},
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "P"
 	},
 	{
@@ -301,25 +296,17 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Quarry",
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+3 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"shortcutKey": "Q"
 	},
-	{
-		"name": "Fishing Boats",
-		"terrainsCanBeBuiltOn": ["Coast"],
-		"food": 1,
-		"techRequired": "Sailing",
-		"uniques": ["[+1 Gold] <after discovering [Compass]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
-		"shortcutKey": "F"
-	},
-
+	
 	
 
 	{
@@ -328,34 +315,34 @@
 		"science": 8,
 		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>",
             "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+2 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
 	},
 	{
 		"name": "Landmark",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 6,
 		"uniques": ["Great Improvement", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+3 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
 	},
 	{
 		"name": "Manufactory",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
 		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
-            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+4 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
 	},
 	{
 		"name": "Customs house",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"gold": 4,
 		"uniques": ["Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+3 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
 	},
 	{
 		"name": "Holy site",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 6,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
+		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+2 Faith] for each adjacent [Religious site]","[+2 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"]
 	},
 	{
 		"name": "Citadel",
@@ -367,7 +354,7 @@
 			"Can be built just outside your borders",
 			"Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built",
-            "Will not be replaced by automated units","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"
+            "Will not be replaced by automated units","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+4 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"
 		]
 	},
 
@@ -378,7 +365,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
-		"uniques": ["Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["Can only be built on [Coastal] tiles", "[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Flight]>", "Pillaging this improvement yields approximately [+10 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+2 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
@@ -392,7 +379,7 @@
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+            "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"techRequired": "Construction",
 		"shortcutKey": "F"
 	},
@@ -402,7 +389,7 @@
 		"food": 3,
 		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
 		"turnsToBuild": 7,
-		"uniques": ["[+1 Production, +2 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+2 Food] for each adjacent [Revegetation site]"],
+		"uniques": ["[+1 Production, +2 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+18 Gold]","[+1 Gold] for each adjacent [Tourist site]","[+1 Culture] for each adjacent [Tourist site]","[+1 Faith] for each adjacent [Religious site]","[+1 Happiness] for each adjacent [Religious site]","[+2 Production] for each adjacent [Industrial site]","[+3 Food] for each adjacent [Revegetation site]"],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	}
