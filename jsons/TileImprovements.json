@@ -167,19 +167,19 @@
 		"name": "Tourist site: forgotten civilization",
 		"science": 2,
   "culture": 3,
-		"uniques": ["Unbuildable","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
 {
 		"name": "Tourist site: destroyed civilization",
   "culture": 6,
-		"uniques": ["Unbuildable","Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
+		"uniques": ["Provides [4] [Trace of civilization]","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
   "shortcutKey": "O"
 	},
 {
 		"name": "Tourist site",
   "culture": 1,
-		"uniques": ["Unbuildable","Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
+		"uniques": ["Pillaging this improvement yields approximately [+50 Gold]","[+1 Gold] from [Tourist site] tiles"],
   "shortcutKey": "O"
   },
 
