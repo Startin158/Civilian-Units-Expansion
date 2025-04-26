@@ -29,10 +29,66 @@
         "uniques": ["Gain [+15] [Food]"],
         "color": "#cf8ff7"
     },
+
+
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Gain [+15] [Food]"],
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Exceptional sword]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Unknown construction technique]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
+        "uniques": ["Discover [Superior knowledge]"],
         "color": "#cf8ff7"
     },
     
