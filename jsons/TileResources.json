@@ -361,7 +361,7 @@
 		"revealedBy": "Biology",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
 		"production": 1,
-		"improvedBy": ["Oil well", "Offshore Platform"],
+		"improvedBy": ["Tourist site: forgotten civilization"],
 		"improvementStats": {"production": 3},
 		"uniques": ["Deposits in [Coast] tiles always provide [4] resources",
 					"Guaranteed with Strategic Balance resource option",
