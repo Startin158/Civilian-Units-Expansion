@@ -2,7 +2,7 @@
     {
         "name": "City defense",
         "movementType": "Air",
-        "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted","[100]% Strength <vs [Barbarians]>"]
+        "uniques": ["[100]% Strength <vs [Barbarians]>","Cannot be intercepted"]
     },
     {
         "name": "Civil defender",
