@@ -709,7 +709,8 @@
 		"techs": [
 			{
 				"name": "test",
-				"row": 6,
+				"row": 5,
+    "prerequisites": ["Future Tech"]
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Cannot be hurried"]
    }
