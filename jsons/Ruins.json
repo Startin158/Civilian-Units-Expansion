@@ -30,8 +30,8 @@
         "color": "#cf8ff7"
     },
     {
-        "name": "the ruins were inhabited!",
-        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
+        "name": "discovery of an ancient technology!",
+        "notification": "We found notes on very advanced technology in the ruins!",
         "uniques": ["Gain [+15] [Food]"],
         "color": "#cf8ff7"
     },
