@@ -58,7 +58,7 @@
     {
         "name": "discovery of an ancient technology!",
         "notification": "We found notes on very advanced technology in the ruins!",
-        "uniques": ["Discover [Superior knowledge]"],
+        "uniques": ["Discover [predictor of misfortune]"],
         "color": "#cf8ff7"
     },
     {
