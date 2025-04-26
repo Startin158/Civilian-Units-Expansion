@@ -15,6 +15,12 @@
         "uniques": ["Gain [50]-[100] [Gold]"],
         "color": "#ffeb7f"
     },
+    {
+        "name": "impossible !",
+        "notification": "we found 1000 gold!",
+        "uniques": ["Gain [[1000] [Gold]"],
+        "color": "#ffeb7f"
+    },
 
 
 
@@ -92,11 +98,26 @@
         "notification": "We have discovered the lost technology of [techName] in the ruins!",
         "uniques": ["[1] free random researchable Tech(s) from the [Ancient era]"],
 		"color": "#7f7fff"
+   },
+   {
+        "name": "discover a lost knowledge ",
+        "notification": "We have discovered the lost knowledge  in the ruins!",
+        "uniques": ["Gain [40] [Science]"],
+		"color": "#7f7fff"
+   },
 
 
 
 //production 
 
+
+
+{
+        "name": "an ancient prophecy",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [5]-turn Golden Age"],
+		"color": "#CDDDF4"
+     },
 
 
 
@@ -120,7 +141,7 @@
 
 
 
-//unit/build 
+//unit
 
 
     {
