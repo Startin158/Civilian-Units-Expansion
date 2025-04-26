@@ -381,6 +381,8 @@
 		"strength": 200,
 		"rangedStrength": 200,
 		"cost": 40,
-		"attackSound": "arrow"
+  "range": 30,
+		"attackSound": "crossbow"
+  "uniques": [""]
 	},
 ]
