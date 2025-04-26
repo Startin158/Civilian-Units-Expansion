@@ -411,7 +411,18 @@
 		"strength": 150,
 		"rangedStrength": 150,
 		"range": 30,
-		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles","Unbuildable"],
+		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles","Unbuildable","Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
+	},
+{
+		"name": "Immortal scoot",
+		"unitType": "Scoot",
+		"movement": 7,
+		"strength": 20,
+		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "He can explore the whole world in less time than it takes to say it"}
+		]
 	},
 ]
