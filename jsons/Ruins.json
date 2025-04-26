@@ -101,28 +101,36 @@
 
 
 
-//culture
+//cuuultuuuuuuuuuuuuuuuure
+//cuuultuuuuuuuuuuuuuuuure
+//cuuultuuuuuuuuuuuuuuuure
+
 
 
     {
-        "name": "discover a lot of cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! ",
-        "uniques": ["Gain [5]-[20] [Culture]","Only available <before turn number [50]>"],
+        "name": "An offensive encounter",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.",
+        "uniques": ["Gain [-15]-[-5] [Culture]","Only available <before turn number [60]>"],
         "color": "#6c4a81"
     },
     {
-        "name": "discover a lot of cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! ",
-        "uniques": ["Gain [26]-[48] [Culture]","Only available <after turn number [60]>","Only available <before turn number [120]>"],
+        "name": "An offensive encounter",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.",
+        "uniques": ["Gain [-28]-[-10] [Culture]","Only available <after turn number [50]>","Only available <before turn number [110]>"],
         "color": "#6c4a81"
     },
-
-
-
-
-
-
-
+    {
+        "name": "An offensive encounter",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.",
+        "uniques": ["Gain [-40]-[-15] [Culture]","Only available <after turn number [100]>","Only available <before turn number [160]>"],
+        "color": "#6c4a81"
+    },
+    {
+        "name": "An offensive encounter",
+        "notification": "Upon entering the caves, we were humiliated by barbarians. This encounter weakened the culture of our civilization.",
+        "uniques": ["Gain [-55]-[-20] [Culture]","Only available <after turn number [150]>"],
+        "color": "#6c4a81"
+    },
     {
         "name": "discover a lot of cultural artifacts",
         "notification": "We have discovered cultural artifacts in the ruins! ",
