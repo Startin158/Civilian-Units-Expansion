@@ -170,9 +170,13 @@
 		"uniques": ["Unbuildable","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]"],
 	},
 {
-		"name": "{
-		"name": "tourist site: destroyed civilization",
+		"name": "Tourist site: destroyed civilization",
   "culture": 6,
 		"uniques": ["Unbuildable","Provides [4] [Legacy of a civilization]","Pillaging this improvement yields approximately [+50 Gold]"],
-	}
+	},
+{
+		"name": "Tourist site",
+  "culture": 1,
+		"uniques": ["Unbuildable","Pillaging this improvement yields approximately [+50 Gold]"],
+	},
 ]
