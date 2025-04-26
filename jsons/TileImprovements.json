@@ -3,7 +3,6 @@
 		"name": "Wine Entreprise",
 		"food": 1,
   "gold": 3,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Wine]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -13,7 +12,6 @@
 		"food": 2,
   "production": 2,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Furs]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -23,7 +21,6 @@
   "gold": 3,
   "culture": 1,
   "food": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Cotton]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
  },
@@ -32,7 +29,6 @@
 		"name": "Dyes Entreprise",
 		"culture": 2,
   "gold": 3,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Dyes]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -41,7 +37,6 @@
 		"name": "Gems Entreprise",
 		"production": 2,
   "gold": 4,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gems]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -49,7 +44,6 @@
 	{
 		"name": "Gold Entreprise",
   "gold": 5,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Gold Ore]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -58,7 +52,6 @@
 		"name": "Silver Entreprise",
 		"culture": 2,
   "gold": 3,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silver]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -68,7 +61,6 @@
 		"faith": 3,
   "culture": 1,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Incense]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -78,7 +70,6 @@
 		"food": 3,
   "culture": 1,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Ivory]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -88,7 +79,6 @@
 		"faith": 1,
   "culture": 3,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Silk]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -97,7 +87,6 @@
 		"name": "Sugar Entreprise",
   "food": 4,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Sugar]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -107,7 +96,6 @@
 		"food": 3,
   "culture": 1,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Spices]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -117,7 +105,6 @@
 		"production": 2,
   "culture": 2,
   "gold": 1,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Marble]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -127,7 +114,6 @@
 		"food": 2,
   "culture": 1,
   "gold": 2,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Citrus]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -136,7 +122,6 @@
 		"name": "Copper Entreprise",
 		"production": 3,
   "gold": 2,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Copper]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -145,7 +130,6 @@
 		"name": "Salt Entreprise",
 		"food": 2,
   "gold": 3,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Salt]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
 
 	},
@@ -155,7 +139,6 @@
 		"food": 1,
   "culture": 2,
   "gold": 2,
-		"turnsToBuild": 100,
 		"uniques": ["Unbuildable <if [Enterprise Administrative Building] is not constructed>","Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+50 Gold]","Provides [1] [Truffles]","Empire enters a [1]-turn Golden Age <every [100] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
 	},
@@ -163,7 +146,6 @@
 //espaceeeeee
 		"name": "Military Entreprise",
   "production": 5,
-		"turnsToBuild": 100,
   "requiredTech": "Replaceable Parts",
 		"uniques": ["Entreprise","Can only be built to improve a resource","Pillaging this improvement yields approximately [+40 Gold]","Provides [2] [Military Stuff]","Empire enters a [2]-turn Golden Age <every [150] turns>","[+1 Gold] from [Tourist site] tiles"],
                 "shortcutKey": "O"
