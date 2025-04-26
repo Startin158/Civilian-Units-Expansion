@@ -708,8 +708,8 @@
 			{
 				"name": "Secret of the ancients",
 				"row": 5,
-				"quote": "'What are these technologies that we can't understand?",
 				"uniques": ["Cannot be hurried","Can be continually researched"]
+    "civilopediaText": [{"text": "What are these technologies that we can't understand?"}]
    }
 		]
  }
