@@ -415,13 +415,13 @@
 		"attackSound": "bombing"
 	},
 {
-		"name": "Immortal scout",
+		"name": "Ancient scout",
 		"unitType": "Scout",
-		"movement": 7,
-		"strength": 20,
+		"movement": 8,
+		"strength": 25,
 		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
  	"attackSound": "nonmetalhit",
-	 "promotions": ["Ignore terrain cost"],
+	 "promotions": ["Ignore terrain cost","[+4] Sight"],
         "civilopediaText": [
 			{"text": "He can explore the whole world in less time than it takes to say it"}
 		]
