@@ -161,7 +161,7 @@
   "requiredTech": "Archaeology",
 		"movement": 2,
 		"cost": 200,
-  "uniques": ["Can instantly construct a [Religious site] improvement <by consuming this unit>"]
+  "uniques": ["Can instantly construct a [Religious site] improvement <by consuming this unit>","Can Spread Religion <for [2] movement>,"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]","Unbuildable", "Religious Unit", "Only available <when religion is enabled>","Prevents spreading of religion to the city it is next to","Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"]
 // un archéologue !
 },
 
