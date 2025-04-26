@@ -34,7 +34,7 @@
   "cost": 80,
   "cityStrength": 7,
 		"cityHealth": 5,
-  "uniques": ["Destroyed when the city is captured","Free [Stone jet city] appears <in this city>"]
+  "uniques": ["Destroyed when the city is captured","Free [Stone jet city] appears <in this city>","New [Ranged] units start with [5] XP [in this city]"]
 		"upgradesTo": "Instalation: Arrow jet city",
 	},
 {
