@@ -113,8 +113,8 @@
 
 
 {
-        "name": "an ancient prophecy",
-        "notification": "We have found a prophecy that warns us of danger!",
+        "name": "Building an altar",
+        "notification": "We found the materials needed to build an altar",
         "uniques": ["Empire enters a [5]-turn Golden Age"],
 		"color": "#CDDDF4"
      },
