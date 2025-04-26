@@ -36,7 +36,7 @@
      {
         "name": "a stash of gold",
         "notification": "",
-        "uniques": ["Gain [300]-[800] [Gold]","Only available <after turn number [200]>",],
+        "uniques": ["Gain [300]-[800] [Gold]","Only available <after turn number [200]>"],
         "color": "#ffeb7f"
     },
     {
