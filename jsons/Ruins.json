@@ -49,7 +49,9 @@
 
 
 
-//Food/population
+//Fooooooooooooooooooooood/population
+//Fooooooooooooooooooooood/population
+//Fooooooooooooooooooooood/population
 
 
 
@@ -117,7 +119,7 @@
     {
         "name": "The teachings of a wise man",
         "notification": "A wise man gave us the wisdom necessary to obtain a doctrine",
-        "uniques": ["[1] Free Social Policies"],
+        "uniques": ["[1] Free Social Policies","Only available <after turn number [40]>"],
         "color": "#cf8ff7"
     },
 
