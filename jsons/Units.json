@@ -13,7 +13,7 @@
 		"name": "Seedler.",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 100,
+		"cost": 140,
 		"requiredTech": "Fertilizer",
 		"requiredResource": "Coal",
   "uniques": ["Great Person - [Worker]","Turn this tile into a [Forest] tile <in [Grassland] tiles> <by consuming this unit","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into [Forest] tile <in [Tundra] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Hill] tiles> <by consuming this unit>","Turn this tile into a [Forest] tile <in [Plains] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Grassland] tiles> <by consuming this unit>","Turn this tile into a [Jungle] tile <in [Plains] tiles> <by consuming this unit>","Can instantly construct a [Revegetation site] improvement <by consuming this unit>"]
@@ -87,7 +87,7 @@
   "requiredTech": "Industrialization",
 		"movement": 3,
 		"uniques": ["Can build [Land] improvements on tiles","Can build [All Road] improvements at a [25]% rate","Can build [Land] improvements at a [50]% rate","Automation is a primary action"],
-		"cost": 85
+		"cost": 140
   "quote": "Un ouvrier c'est bien, un ouvrier qualifié c'est mieux !"
 //un meilleur ouvrier, qui construit plus vite les aménagements et encore plus vite les routes 
 	}
@@ -121,7 +121,7 @@
 		"unitType": "Civil defender",
 		"movement": 3,
 		"strength": 30,
-		"cost": 100,
+		"cost": 110,
 		"requiredTech": "Replaceable Parts",
 		"attackSound": "shot"
   "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Consumes [2] [Military Stuff]"],
@@ -132,7 +132,7 @@
 		"unitType": "Civil defender",
 		"movement": 2,
 		"strength": 60,
-		"cost": 200,
+		"cost": 160,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Can build [Land] improvements on tiles","Automation is a primary action","[+50]% Strength <vs [Armored] units>", "Consumes [4] [Military Stuff]"],
 		"attackSound": "machinegun"
@@ -161,7 +161,7 @@
   "requiredTech": "Archaeology",
 		"movement": 2,
 		"cost": 200,
-  "uniques": ["Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>"]
+  "uniques": ["Can instantly construct a [Religious site] improvement <by consuming this unit>"]
 // un archéologue !
 },
 
