@@ -153,7 +153,7 @@
 		"movement": 2,
 		"cost": 200,
 		"requiredResource": "Coal", 
-  "uniques": ["Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>","Can instantly construct a [tourist site: destroyed civilization] improvement <by consuming this unit> <in [City ruins] tiles>","Can instantly construct a [tourist site] improvement <by consuming this unit>"]
+  "uniques": ["Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>","Can instantly construct a [Tourist site: destroyed civilization] improvement <by consuming this unit> <in [City ruins] tiles>","Can instantly construct a [Tourist site] improvement <by consuming this unit>"]
    "quote": "Une personne ordinaire, qui souhaite créer des entreprises pour s'enrichir et pour enrichir sa patrie. Peut être que dans 100ans on se souviendra d'elle et de ses entreprises !"
 // un archéologue !
 },
