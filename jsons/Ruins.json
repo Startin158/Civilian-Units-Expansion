@@ -167,17 +167,43 @@
 //Faith/religion
 
 
-    {
-        "name": "discover holy symbols",
-        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
-        "uniques": ["Only available <when religion is enabled>","Only available <after turn number []>","Only available <before turn number []>"],
+
+     {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain []-[] [Faith]","Only available <when religion is enabled>","Only available <before turn number []>","Only available <after turn number []>"],
 		"color": "#cdebf4"
     },
-
-
-
-
-
+    {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [10]-[15] [Faith]","Only available <when religion is enabled>","Only available <before turn number [20]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [15]-[24] [Faith]","Only available <when religion is enabled>","Only available <before turn number [60]>","Only available <after turn number [15]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [25]-[38] [Faith]","Only available <when religion is enabled>","Only available <before turn number [120]>","Only available <after turn number [55]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [35]-[65] [Faith]","Only available <when religion is enabled>","Only available <before turn number [220]>","Only available <after turn number [100]>"],
+		"color": "#cdebf4"
+    },
+    {
+        "name": "religious symbol",
+        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "uniques": ["Gain [45]-[95] [Faith]","Only available <when religion is enabled>","Only available <after turn number [200]>"],
+		"color": "#cdebf4"
+    },
     {
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
