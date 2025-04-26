@@ -169,8 +169,8 @@
 
 
      {
-        "name": "religious symbol",
-        "notification": "We found symbols that helped us better understand our faith! (+[faithAmount] Faith)",
+        "name": "heretic encounter",
+        "notification": "We met people in the ruins who managed to hurt our faith (+[faithAmount] Faith)",
         "uniques": ["Gain []-[] [Faith]","Only available <when religion is enabled>","Only available <before turn number []>","Only available <after turn number []>"],
 		"color": "#cdebf4"
     },
