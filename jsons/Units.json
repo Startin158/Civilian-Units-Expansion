@@ -383,6 +383,6 @@
 		"cost": 40,
   "range": 30,
 		"attackSound": "crossbow"
-  "uniques": [""]
+  "uniques": ["Eliminates combat penalty for attacking over a river,Eliminates combat penalty for attacking across a coast"]
 	},
 ]
