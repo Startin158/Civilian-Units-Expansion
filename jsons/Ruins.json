@@ -54,23 +54,48 @@
 
 
     {
-        "name": "the ruins were inhabited!",
-        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
-        "uniques": ["Gain [+15] [Food]"],
-        "color": "#cf8ff7"
+        "name": "survivors (adds population to a city)",
+        "notification": "We have found survivors in the ruins! Population added to [cityName].",
+        "uniques": ["[+1] population in a random city","Only available <before turn number [120]>"],
+		"color": "#81c784"
     },
     {
         "name": "survivors (adds population to a city)",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city"],
+        "uniques": ["[+1] population in a random city","[+1] population in a random city","Only available <after turn number [100]>"],
 		"color": "#81c784"
     },
     {
         "name": "too many survivors!",
         "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!.",
-        "uniques": ["[+6] population in a random city","Gain [-40] [Gold]","Only available <after turn number [20]>"],
+        "uniques": ["[+3] population in a random city","Gain [-40] [Gold]","Only available <after turn number [50]>","Only available <before turn number [140]>"],
 		"color": "#81c784"
     },
+    {
+        "name": "too many survivors!",
+        "notification": "We have found survivors in the ruins! Population added to [cityName] but bringing them back to town was expensive!.",
+        "uniques": ["[+6] population in a random city","Gain [-80] [Gold]","Only available <after turn number [100]>","Only available <before turn number [200]>"],
+		"color": "#81c784"
+    },
+    {
+        "name": "the ruins were inhabited!",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
+        "uniques": ["Gain [10]-[25] [Food]","Only available <after turn number [60]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "the ruins were inhabited!",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
+        "uniques": ["Gain [20]-[40] [Food]","Only available <after turn number [40]>","Only available <before turn number [140]>"],
+        "color": "#cf8ff7"
+    },
+    {
+        "name": "the ruins were inhabited!",
+        "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
+        "uniques": ["Gain [30]-[60] [Food]","Only available <after turn number [100]>"],
+        "color": "#cf8ff7"
+    },
+    
 
 
 
