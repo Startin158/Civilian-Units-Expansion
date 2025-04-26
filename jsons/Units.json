@@ -313,11 +313,11 @@
   "range": 5,
 		"cost": 370,
 		"requiredTech": "Ballistics",
-		"upgradesTo": "mechanized city defense",
+		"upgradesTo": "Mechanized city defense",
 		"attackSound": "machinegun"
 	},
 {
-		"name": "mechanized city defense",
+		"name": "Mechanized city defense",
 		"unitType": "City defense",
   "uniqueTo": "The great civil union",
 		"rangedStrength": 100,
