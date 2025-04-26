@@ -706,11 +706,10 @@
 		"techCost": 15000,
 		"techs": [
 			{
-				"name": "test",
-				"row": 6,
-    "prerequisites": ["Future Tech"]
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Cannot be hurried"]
+				"name": "Secret of the ancients",
+				"row": 5,
+				"quote": "'What are these technologies that we can't understand?",
+				"uniques": ["Cannot be hurried","Can be continually researched"]
    }
 		]
  }
