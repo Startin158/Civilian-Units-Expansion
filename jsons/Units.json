@@ -164,7 +164,6 @@
 		"cost": 200,
 		"requiredResource": "Coal", 
   "uniques": ["Can instantly construct a [Tourist site: forgotten civilization] improvement <by consuming this unit>"]
-   "quote": "
 // un archéologue !
 },
 
