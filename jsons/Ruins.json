@@ -2,7 +2,12 @@
 //gold
 
 
-
+        {
+        "name": "a stash of gold",
+        "notification": "We found gold !",
+        "uniques": ["Gain [10]-[50] [Gold]",""],
+        "color": "#ffeb7f"
+    },
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold!(-30 gold)",
