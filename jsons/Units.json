@@ -210,8 +210,8 @@
 		"strength": 26,
 		"cost": 240,
 		"requiredTech": "Rifling",
-		"obsoleteTech": "Infantry defender",
-		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Infantry defender",
 		"attackSound": "shot"
 	},
 {
