@@ -1,28 +1,22 @@
 [
-    {
-        "name": "discover a lot of cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+40 culture)",
-        "uniques": ["Gain [20] [Culture]"],
-        "color": "#cf8ff7"
-    },
-    {
-        "name": "Incredible discovery",
-        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a gold coin!",
-        "uniques": ["Gain [1] [Gold]"],
-        "color": "#cf8ff7"
-    },
-    {
-        "name": "unwanted people!",
-        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
-        "uniques": ["Free [Brute] found in the ruins"],
-        "color": "#cf8ff7"
-    },
+//gold
+
+
+
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were really unfriendly. They forced me to give them gold!(-30 gold)",
         "uniques": ["Gain [-30] [Gold]"],
         "color": "#cf8ff7"
     },
+
+
+
+
+//Food/population
+
+
+
     {
         "name": "the ruins were inhabited!",
         "notification": "The inhabitants of the ruins were incredibly generous! They offered us food!",
@@ -30,7 +24,76 @@
         "color": "#cf8ff7"
     },
 
+
+
+//culture
+
+
+
+{
+        "name": "discover a lot of cultural artifacts",
+        "notification": "We have discovered cultural artifacts in the ruins! (+40 culture)",
+        "uniques": ["Gain [20] [Culture]"],
+        "color": "#cf8ff7"
+    },
+
+
+
+//Faith/religion
+
+
+
+
+// science/tech
+
+
+
+
+//production 
+
+
+
+
+//happiness/golden age
+
+
+
+
+//unit/build 
+
+
+
+{
+        "name": "unwanted people!",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Brute] found in the ruins"],
+        "color": "#cf8ff7"
+    },
+
+
+
+//autre 
+
+
+
+    {
+        "name": "Incredible discovery",
+        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a gold coin!",
+        "uniques": ["Gain [1] [Gold]"],
+        "color": "#cf8ff7"
+    },
+    
+
+
+
+
+
 //way to win new tech
+
+
+
+
+
 
     {
         "name": "discovery of an ancient technology!",
