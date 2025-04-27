@@ -381,6 +381,7 @@
 		"strength": 200,
 		"rangedStrength": 200,
   "range": 30,
+  "cost": 4000,
 		"attackSound": "crossbow"
   "uniques": ["Eliminates combat penalty for attacking over a river,Eliminates combat penalty for attacking across a coast","Never appears as a Barbarian unit","Unbuildable"]
         "civilopediaText": [
@@ -392,6 +393,7 @@
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 600,
+  "cost": 4000,
 		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -402,6 +404,7 @@
 		"name": "Ancient worker",
 		"unitType": "Civilian",
 		"movement": 3,
+  "cost": 4000,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action","Unbuildable","Can build [Improvement] improvements at a [+20000]% rate"],
         "civilopediaText": [
 			{"text": "Much more efficient than your workers. That's the superiority of the ancients."}]
@@ -413,6 +416,7 @@
 		"strength": 150,
 		"rangedStrength": 150,
 		"range": 30,
+  "cost": 4000,
 		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "[+1] Sight", "Can see over obstacles","Unbuildable","Destroys tile improvements when attacking"],
 		"attackSound": "bombing"
 	},
@@ -421,6 +425,7 @@
 		"unitType": "Scout",
 		"movement": 8,
 		"strength": 25,
+  "cost": 4000,
 		"uniques" : ["Never appears as a Barbarian unit","Unbuildable","[+4] Sight"],
  	"attackSound": "nonmetalhit",
 	 "promotions": ["Ignore terrain cost"],
