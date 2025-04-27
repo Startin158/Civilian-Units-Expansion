@@ -384,7 +384,9 @@
 		"attackSound": "crossbow"
   "uniques": ["Eliminates combat penalty for attacking over a river,Eliminates combat penalty for attacking across a coast","Never appears as a Barbarian unit","Unbuildable"]
         "civilopediaText": [
-			{"text": "An Archer capable of hitting all his targets, even if they are miles apart. This is the ability of the ancients.},
+			{"text": "An Archer capable of hitting all his targets, even if they are miles apart. This is the ability of the ancients.}
+  ]
+ },
 {
 		"name": "Ancient warrior",
 		"unitType": "Sword",
