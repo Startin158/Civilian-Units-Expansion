@@ -342,9 +342,11 @@
 
 
 
-
+//unit
+//unit
 //unit
 
+//civilian
 
     {
         "name": "squatters willing to work for you",
@@ -358,6 +360,9 @@
         "uniques": ["Free [Settler] found in the ruins"],
        
     },
+
+//Military
+
      {
         "name": "unwanted people!",
         "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
@@ -450,6 +455,11 @@
         "name": "find a map of Natural Wonder.",
         "notification": "We have found a drawn map in the ruins!",
         "uniques": ["Reveal up to [3] [Natural Wonder] within a [33] tile radius"]
+    },
+    {
+        "name": "find a map of some Luxury ressource",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [15] [Luxury resource] within a [24] tile radius"]
     },
     
 
