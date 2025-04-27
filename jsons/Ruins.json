@@ -327,6 +327,18 @@
         "uniques": ["Empire enters a [15]-turn Golden Age"],
 		"color": "#CDDDF4"
      },
+     {
+        "name": "an ancient prophecy",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [10]-turn Golden Age"],
+		"color": "#CDDDF4"
+     },
+     {
+        "name": "an ancient prophecy",
+        "notification": "We have found a prophecy that warns us of danger!",
+        "uniques": ["Empire enters a [18]-turn Golden Age"],
+		"color": "#CDDDF4"
+     },
 
 
 
