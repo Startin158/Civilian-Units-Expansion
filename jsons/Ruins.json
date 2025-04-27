@@ -351,7 +351,7 @@
     {
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
-        "uniques": ["Free [Worker] found in the ruins"],
+        "uniques": ["Free [Worker] found in the ruins","Only available <before turn number [80]>"],
         
      },
      {
@@ -360,6 +360,25 @@
         "uniques": ["Free [Settler] found in the ruins"],
        
     },
+    "name": "you saved some one",
+        "notification": "A [Entrepreneur] has joined us!",
+        "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [100]>"],
+   },
+   {
+   "name": "you saved some one",
+        "notification": "A [Great Artist] has joined us!",
+        "uniques": ["Free [Great Artist] found in the ruins"],
+   },
+   {
+   "name": "you saved some one",
+        "notification": "A [Great Merchant] has joined us!",
+        "uniques": ["Free [Great Merchant] found in the ruins"],
+   },
+   {
+   "name": "you saved some one",
+        "notification": "A [Warrior Worker] has joined us!",
+        "uniques": ["Free [Warrior Worker] found in the ruins","Only available <after turn number [80]>"],
+   }
 
 //Military
 
