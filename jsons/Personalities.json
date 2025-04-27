@@ -1,31 +1,31 @@
-[
-  {
-    "name": "Silvia of Civilian",
-    "production": 5,
-    "food": 7,
-    "gold": 5,
-    "science": 6,
-    "culture": 7,
-    "happiness": 8,
-    "faith": 2,
-    "military": 4,
-    "aggressive": 2,
-    "declareWar": 1,
-    "commerce": 8,
-    "diplomacy": 7,
-    "loyal": 8,
-    "expansion": 7,
-    "priorities": {
-      "Tradition": 6,
-      "Liberty": 8,
-      "Honor": 2,
-      "Commerce": 8,
-      "Patronage": 8,
-      "Piety": 1,
-      "Rationalism": 7,
-      "Freedom": 8,
-      "Autocracy": 5,
-      "Order": 5
-    }
-  }
-]
+//[
+ // {
+   // "name": "Silvia of Civilian",
+ //   "production": 5,
+//    "food": 7,
+ //   "gold": 5,
+ //   "science": 6,
+  //  "culture": 7,
+  //  "happiness": 8,
+   // "faith": 2,
+ //   "military": 4,
+  //  "aggressive": 2,
+ //   "declareWar": 1,
+ //   "commerce": 8,
+//    "diplomacy": 7,
+ //   "loyal": 8,
+//    "expansion": 7,
+//    "priorities": {
+ //     "Tradition": 6,
+//      "Liberty": 8,
+  //    "Honor": 2,
+//      "Commerce": 8,
+ //     "Patronage": 8,
+  //    "Piety": 1,
+   //   "Rationalism": 7,
+   //   "Freedom": 8,
+  //    "Autocracy": 5,
+ //     "Order": 5
+//    }
+//  }
+//]
