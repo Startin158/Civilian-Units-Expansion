@@ -797,7 +797,7 @@
    },
    {
 				"name": "The ancient secret of the ancients",
-    "prerequisites": ["The secret of the ancients"],
+    "prerequisites": ["Secret of the ancients"],
 				"row": 5,
 				"uniques": ["Cannot be hurried"]
     "civilopediaText": [{"text": "You are able to find traces of the ancients"}]
