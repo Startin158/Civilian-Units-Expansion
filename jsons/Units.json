@@ -421,9 +421,9 @@
 		"unitType": "Scout",
 		"movement": 8,
 		"strength": 25,
-		"uniques" : ["Never appears as a Barbarian unit","Unbuildable"],
+		"uniques" : ["Never appears as a Barbarian unit","Unbuildable","[+4] Sight"],
  	"attackSound": "nonmetalhit",
-	 "promotions": ["Ignore terrain cost","[+4] Sight"],
+	 "promotions": ["Ignore terrain cost"],
         "civilopediaText": [
 			{"text": "He can explore the whole world in less time than it takes to say it"}
 		]
