@@ -240,7 +240,9 @@
 
 
 
-// science/tech
+// sciiiiiiiiiiiiiiiiiience/tech
+// sciiiiiiiiiiiiiiiiiience/tech
+// sciiiiiiiiiiiiiiiiiience/tech
 
 
 
@@ -305,12 +307,7 @@
 
 
 
-{
-        "name": "Building a monument",
-        "notification": "We found the materials needed to build a monument",
-        "uniques": ["Gain a free [Monument] [in this city]"],
-		"color": "#CDDDF4"
-     },
+//rien...
 
 
 
@@ -341,13 +338,13 @@
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
         "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+        
      },
      {
         "name": "squatters wishing to settle under your rule",
         "notification": "A [Settler] has joined us!",
         "uniques": ["Free [Settler] found in the ruins"],
-        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
+       
     },
      {
         "name": "unwanted people!",
