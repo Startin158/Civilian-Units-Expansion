@@ -245,47 +245,50 @@
 
 
     {
-        "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
-        "uniques": ["Gain [40]-[110] [Science]","Only available <before turn number [240]>","Only available <after turn number [100]>"],
-		"color": "#7f7fff"
+        "name": "Wrong Way",
+        "notification": "We realized while exploring the mines that we were wrong, we have to start part of our research again. (+[scienceAmount] Science)",
+        "uniques": ["Gain [-20]-[-5] [Science]","Only available <before turn number [50]>"],
+		"color": "#37377a"
    },
-
-
-
+   {
+        "name": "Wrong Way",
+        "notification": "We realized while exploring the mines that we were wrong, we have to start part of our research again.. (+[scienceAmount] Science)",
+        "uniques": ["Gain [-50]-[-10] [Science]","Only available <after turn number [50]>"],
+		"color": "#37377a"
+   },
     {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [5]-[15] [Science]","Only available <before turn number [20]>"],
 		"color": "#7f7fff"
    },
    {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [10]-[25] [Science]","Only available <before turn number [30]>","Only available <after turn number [15]>"],
 		"color": "#7f7fff"
    },
    {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [15]-[50] [Science]","Only available <before turn number [60]>","Only available <after turn number [25]>"],
 		"color": "#7f7fff"
    },
    {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [25]-[90] [Science]","Only available <before turn number [110]>","Only available <after turn number [55]>"],
 		"color": "#7f7fff"
    },
    {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [40]-[110] [Science]","Only available <before turn number [240]>","Only available <after turn number [100]>"],
 		"color": "#7f7fff"
    },
    {
         "name": "scientific revelation",
-        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)"",
+        "notification": "By exploring the ruins, we understood something essential. We were able to speed up our research. (+[scienceAmount] Science)",
         "uniques": ["Gain [60]-[220] [Science]","Only available <after turn number [220]>"],
 		"color": "#7f7fff"
    },
