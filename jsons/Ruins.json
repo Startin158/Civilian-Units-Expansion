@@ -444,7 +444,7 @@
     {
         "name": "find a map of the surrounding area",
         "notification": "We have found a drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [0] tiles away from the ruins, reveal tiles up to [11] tiles away with [65]% chance"]
+        "uniques": ["From a randomly chosen tile [2] tiles away from the ruins, reveal tiles up to [11] tiles away with [65]% chance"]
     },
     {
         "name": "find a map of all ancient city",
