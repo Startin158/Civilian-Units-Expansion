@@ -361,7 +361,7 @@
        
     },
     "name": "you saved some one",
-        "notification": "A [Entrepreneur] has joined us!",
+        "notification": "A Entrepreneur has joined us!",
         "uniques": ["Free [Entrepreneur] found in the ruins","Only available <after turn number [100]>"],
    },
    {
@@ -376,7 +376,7 @@
    },
    {
    "name": "you saved some one",
-        "notification": "A [Warrior Worker] has joined us!",
+        "notification": "A Warrior Worker has joined us!",
         "uniques": ["Free [Warrior Worker] found in the ruins","Only available <after turn number [80]>"],
    }
 
