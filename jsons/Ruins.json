@@ -319,25 +319,25 @@
         "name": "an ancient prophecy",
         "notification": "We have found a prophecy that warns us of danger!",
         "uniques": ["Empire enters a [5]-turn Golden Age"],
-		"color": "#CDDDF4"
+		"color": "#fffc00"
      },
      {
         "name": "an ancient prophecy",
         "notification": "We have found a prophecy that warns us of danger!",
         "uniques": ["Empire enters a [15]-turn Golden Age"],
-		"color": "#CDDDF4"
+		"color": "#fffc00"
      },
      {
         "name": "an ancient prophecy",
         "notification": "We have found a prophecy that warns us of danger!",
         "uniques": ["Empire enters a [10]-turn Golden Age"],
-		"color": "#CDDDF4"
+		"color": "#fffc00"
      },
      {
         "name": "an ancient prophecy",
         "notification": "We have found a prophecy that warns us of danger!",
         "uniques": ["Empire enters a [18]-turn Golden Age"],
-		"color": "#CDDDF4"
+		"color": "#fffc00"
      },
 
 
@@ -375,12 +375,26 @@
         "name": "Incredible discovery",
         "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a gold coin!",
         "uniques": ["Gain [1] [Gold]"],
-        "color": "#cf8ff7"
+    },
+    {
+        "name": "Incredible discovery",
+        "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a apple!",
+        "uniques": ["Gain [1] [Food]"],
     },
     {
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
         "uniques": ["[This Unit] gains [10] XP", "Only available <after turn number [10]>"]
+    },
+     {
+        "name": "your exploring unit receives hard training",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [25] XP", "Only available <after turn number [10]>"]
+    },
+     {
+        "name": "your exploring unit receives deadly training",
+        "notification": "An ancient tribe trained us in their ways of combat!",
+        "uniques": ["[This Unit] gains [40] XP", "Only available <after turn number [10]>"]
     },
     {
         "name": "advanced weaponry for your explorer",
@@ -393,9 +407,24 @@
         "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
     },
     {
+        "name": "reveal all the distant barbarian camps",
+        "notification": "You find evidence of Barbarian activity. Far Barbarian camps are revealed!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [18] tile radius"]
+    },
+    {
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
         "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
+    },
+    {
+        "name": "find a far crudely-drawn map",
+        "notification": "We have found a crudely-drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [10] tiles away from the ruins, reveal tiles up to [5] tiles away with [60]% chance"]
+    },
+    {
+        "name": "find a map of the surrounding area",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["From a randomly chosen tile [1] tiles away from the ruins, reveal tiles up to [7] tiles away with [90]% chance"]
     },
     
 
