@@ -386,7 +386,21 @@
         "name": "unwanted people!",
         "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
         "uniques": ["Free [Brute] found in the ruins"],
-        "color": "#cf8ff7"
+    },
+    {
+        "name": "unwanted people!",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Composite Bowman] found in the ruins","Only available <after turn number [20]>"],
+    },
+    {
+        "name": "unwanted people!",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Spearman] found in the ruins","Only available <before turn number [30]>"],
+    },
+    {
+        "name": "unwanted people!",
+        "notification": "While exploring the ruins we came across barbarians ransacking the place. However he is nice, so he is with us now",
+        "uniques": ["Free [Swordsman] found in the ruins","Only available <after turn number [30]>"],
     },
 
 
