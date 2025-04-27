@@ -10,6 +10,7 @@
 		"requiredTech": "Globalization",
 		"quote": "Les civils sont les personnes les plus importantes pour une civilisation, voilà une statue à leurs honneur"
 	},
+
 {
 		"name": "Enterprise Administrative Building",
  	"isNationalWonder": true,
@@ -21,13 +22,14 @@
 		"requiredTech": "Civil Service",
 		"quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
 	},
+
 {
-		"name": "Enterprise Administrative Building",
+		"name": "Historical museum",
 		"culture": 2,
   "happiness": 1,
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniques": [""],
-		"requiredTech": "Civil Service",
+		"uniques": ["Consumes [1] [Trace of civilization]","[30]% [Culture] [in this city]"],
+		"requiredTech": "Archaeology",
 		"quote": "Ils faut absolument avoir une bâtiment pour pouvoir gérer les créations des grandes entreprises, alors construisez le !"
 	},
 
