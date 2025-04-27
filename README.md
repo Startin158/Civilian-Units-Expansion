@@ -1,2 +1,2 @@
-# Unciv-mod-example
-Un mod rajoutant des unité civile très utile 
+# Civilian mod
+A mod that adds a lot of things related to civilians. Discover the new developments, the new civilian units (the territory thieves, the terraformers, the war civilians...) and in the ruins (at the barbarian camp), found a trace of a very old technology. (The mode also adds a unique nation) 
