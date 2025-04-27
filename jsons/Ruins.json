@@ -447,9 +447,9 @@
         "uniques": ["Reveal up to [8] [Ancient ruins] within a [10] tile radius"]
     },
     {
-        "name": "find a map of the ",
+        "name": "find a map of Natural Wonder.",
         "notification": "We have found a drawn map in the ruins!",
-        "uniques": ["Reveal up to [5] [Ancient ruins] within a [30] tile radius"]
+        "uniques": ["Reveal up to [3] [Natural Wonder] within a [33] tile radius"]
     },
     
 
