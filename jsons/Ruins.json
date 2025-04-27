@@ -367,7 +367,9 @@
 
 
 
-//autre 
+//usless
+//usless 
+//usless
 
 
 
@@ -381,6 +383,17 @@
         "notification": "We found many things in the ruins! Unfortunately everything was broken... But we found a apple!",
         "uniques": ["Gain [1] [Food]"],
     },
+
+
+
+
+//units bonus
+//units bonus 
+//units bonus
+
+
+
+
     {
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
@@ -401,15 +414,17 @@
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
         "uniques": ["[This Unit] upgrades for free including special upgrades"]
     },
+
+
+//map
+//map
+//map
+
+
     {
         "name": "reveal nearby Barbarian camps",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
         "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
-    },
-    {
-        "name": "reveal all the distant barbarian camps",
-        "notification": "You find evidence of Barbarian activity. Far Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [18] tile radius"]
     },
     {
         "name": "find a crudely-drawn map",
@@ -424,7 +439,17 @@
     {
         "name": "find a map of the surrounding area",
         "notification": "We have found a drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [1] tiles away from the ruins, reveal tiles up to [7] tiles away with [90]% chance"]
+        "uniques": ["From a randomly chosen tile [0] tiles away from the ruins, reveal tiles up to [11] tiles away with [65]% chance"]
+    },
+    {
+        "name": "find a map of all ancient city",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [8] [Ancient ruins] within a [10] tile radius"]
+    },
+    {
+        "name": "find a map of the ",
+        "notification": "We have found a drawn map in the ruins!",
+        "uniques": ["Reveal up to [5] [Ancient ruins] within a [30] tile radius"]
     },
     
 
@@ -432,7 +457,11 @@
 
 
 
+
+
 //way to win new tech
+
+
 
 
 
