@@ -1,2 +1,2 @@
 # Civilian mod
-A mod that adds a lot of things related to civilians. Discover the new developments, the new civilian units (the territory thieves, the terraformers, the war civilians...) and in the ruins (at the barbarian camp), found a trace of a very old technology. (The mode also adds a unique nation) 
+a mod that adds some civilian units (like the territory thief, warrior workers, entrepreneurs, tourists (who use bonus resources)), and a civilization composed only of civilian units.
