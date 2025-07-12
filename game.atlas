@@ -28,70 +28,70 @@ NationIcons/Aliens
 
 UnitIcons/Phasers
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Territorial stealer
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Diplomate
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Entrepreneur
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Historian
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Medecin
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Seedler
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Skilled Worker
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Terraformer
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Territorial stealer
   rotate: false
-  xy: 328, 4
+  xy: 0, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
