@@ -72,7 +72,7 @@
 // Un gars, possé là, qui vie pour sa passion et consomme des trucs qui servent à rien contre de l'or
 	},
 {
-		"name": "Médecin",
+		"name": "Medecin",
 		"unitType": "Civilian",
   "requiredTech": "Biology",
 		"movement": 3,
